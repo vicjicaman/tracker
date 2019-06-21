@@ -1,0 +1,20 @@
+{
+  "releaseid": "initial-dll",
+  "moduleid": "tracker-dll-utils",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-utils.git",
+  "publish": null,
+  "released": {
+    "commitid": "3da4b90ab17148dfa7dbde0b254be7ed475982e3",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Misc utilities packages",
+  "dependencies": [],
+  "created": 1561146049,
+  "updated": 1561146049,
+  "status": "active"
+}
