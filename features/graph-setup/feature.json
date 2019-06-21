@@ -1,0 +1,8 @@
+{
+  "featureid": "graph-setup",
+  "baselineid": "master",
+  "description": "Setup the graph with the workspace, issue and labels",
+  "created": 1561148923,
+  "updated": 1561148923,
+  "status": "active"
+}
