@@ -2,7 +2,7 @@
   "moduleid": "tracker-stateful-web",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-web.git",
-  "fullname": "@nebuario/tracker-stateful-web",
+  "fullname": "@nebulario/tracker-stateful-web",
   "iteration": {
     "mode": "dev"
   },
