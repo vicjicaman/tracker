@@ -1,6 +1,6 @@
 {
   "releaseid": "common-render",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-stateful-server",
     "tracker-stateful-web"
