@@ -2,7 +2,7 @@
   "moduleid": "tracker-dll-react",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-dll-react.git",
-  "fullname": "@nebulario/",
+  "fullname": "@nebulario/tracker-dll-react",
   "iteration": {
     "mode": "dev"
   },
