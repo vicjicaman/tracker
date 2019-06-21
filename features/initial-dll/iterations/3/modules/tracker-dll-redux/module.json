@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-dll-redux",
+  "mode": "dev",
+  "version": "1.70.2-initial-dll-dev",
+  "fullname": "@nebulario/tracker-dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-redux.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "df8d4a92fe68f5a3154262459dd8c433036ac1bb",
+    "message": "Add MIT license\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1561143826,
+  "updated": 1561143826,
+  "status": "active"
+}
