@@ -6,7 +6,13 @@
       "releaseid": "initial-dll"
     }
   ],
-  "hierarchy": [],
+  "hierarchy": [
+    "tracker-dll-apollo",
+    "tracker-dll-react",
+    "tracker-dll-redux",
+    "tracker-dll-utils",
+    "tracker-dll-vendor"
+  ],
   "created": 1561136093,
   "updated": 1561136093,
   "status": "active"

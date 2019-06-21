@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-dll-react",
+  "mode": "dev",
+  "version": "1.70.2-initial-dll-dev",
+  "fullname": "@nebulario/tracker-dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-react.git",
+  "publish": {
+    "commitid": "da4ce6dc81baf2df982a48d4da9fe8217b897fae",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "e8f94616da09b2423c25866edfa9a8c4f5c36973",
+    "message": "Add MIT license\n"
+  },
+  "mergeback": {
+    "commitid": "53ec7c6ca5074983c12b74e14f4cb107f3b0f2fa",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561143826,
+  "updated": 1561143826,
+  "status": "active"
+}
