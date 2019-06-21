@@ -1,0 +1,20 @@
+{
+  "releaseid": "initial-dll",
+  "moduleid": "tracker-dll-react",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-react.git",
+  "publish": null,
+  "released": {
+    "commitid": "ade26d75ac4ddd534529675cc4e954439f11c583",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common React related libraries",
+  "dependencies": [],
+  "created": 1561146049,
+  "updated": 1561146049,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "common-render",
+  "baselineid": "master",
+  "description": "SSR common render functionality and UI libraries",
+  "created": 1561138128,
+  "updated": 1561138128,
+  "status": "active"
+}

@@ -1,7 +1,11 @@
 {
   "baselineid": "master",
   "description": "Production repositories baseline branch",
-  "releases": [],
+  "releases": [
+    {
+      "releaseid": "initial-dll"
+    }
+  ],
   "hierarchy": [],
   "created": 1561136093,
   "updated": 1561136093,
