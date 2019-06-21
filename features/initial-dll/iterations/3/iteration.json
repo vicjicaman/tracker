@@ -1,6 +1,6 @@
 {
   "iterationid": 3,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "tracker-dll-apollo",
     "tracker-dll-react",
