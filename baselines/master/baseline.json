@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "common-render"
+    },
+    {
       "releaseid": "initial-dll"
     }
   ],
