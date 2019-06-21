@@ -1,0 +1,23 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-stateful-server",
+    "tracker-stateful-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-stateful-server",
+      "version": "1.70.1-common-render-dev",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "version": "1.70.1-common-render-dev",
+      "iterationid": 2
+    }
+  ],
+  "created": 1561145455,
+  "updated": 1561145455,
+  "status": "active"
+}
