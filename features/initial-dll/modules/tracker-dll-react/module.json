@@ -12,5 +12,9 @@
   "description": "Common React related libraries",
   "created": 1561136271,
   "updated": 1561136271,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e8f94616da09b2423c25866edfa9a8c4f5c36973",
+    "message": "Add MIT license\n"
+  }
 }

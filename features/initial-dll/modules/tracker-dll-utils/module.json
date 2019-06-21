@@ -12,5 +12,9 @@
   "description": "Misc utilities packages",
   "created": 1561137050,
   "updated": 1561137050,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8ebfcabdcc53ae4b1155c7b09eec786ea2a0544e",
+    "message": "Add MIT license\n"
+  }
 }

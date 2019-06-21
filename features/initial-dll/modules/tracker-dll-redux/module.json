@@ -12,5 +12,9 @@
   "description": "Redux related packages",
   "created": 1561136851,
   "updated": 1561136851,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "df8d4a92fe68f5a3154262459dd8c433036ac1bb",
+    "message": "Add MIT license\n"
+  }
 }

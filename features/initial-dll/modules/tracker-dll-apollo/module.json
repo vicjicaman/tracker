@@ -12,5 +12,9 @@
   "description": "Apollo related packages",
   "created": 1561136914,
   "updated": 1561136914,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6f48e48eae0fa53d033b354966073198fcbd18f0",
+    "message": "Add MIT license\n"
+  }
 }
