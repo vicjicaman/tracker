@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-dll-apollo",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-dll-apollo.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f6d9ad48abfa146466be73c36e30939fd7ce4b6d",
+    "message": "Sync to production iteration\n"
+  },
   "iterate": {
     "commitid": "c7015be980bc4e971ab72b0d7fbfd0e2ebe26c7b",
     "message": "ITERATION:3\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2c247dd1fd0e8357d1e00db7c2dbfbbf7a67b35b",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1561144484,
   "updated": 1561144484,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-dll-redux",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-dll-redux.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2d2f1047de314a70592ebfb06665efb6eb1debec",
+    "message": "Sync to production iteration\n"
+  },
   "iterate": {
     "commitid": "6660c32c47fff6f1e55e5a33ebc02d4482edf2f2",
     "message": "ITERATION:3\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c9a567f9ab1b5e8709ef1e58ed8ed6f8a9829fb8",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1561144484,
   "updated": 1561144484,
