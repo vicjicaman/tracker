@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-entities",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-entities.git",
+  "fullname": "@nebulario/tracker-entities",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Entities for the git database",
+  "created": 1561148244,
+  "updated": 1561148244,
+  "status": "active"
+}
