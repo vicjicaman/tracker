@@ -1,6 +1,6 @@
 {
   "iterationid": 4,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "tracker-stateful-server",
     "tracker-stateful-web"
