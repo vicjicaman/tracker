@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-apollo.git",
+  "fullname": "@nebulario/tracker-dll-apollo",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Apollo related packages",
+  "created": 1561136914,
+  "updated": 1561136914,
+  "status": "active",
+  "commit": {
+    "commitid": "2c247dd1fd0e8357d1e00db7c2dbfbbf7a67b35b",
+    "message": "ITERATION:4\n"
+  }
+}

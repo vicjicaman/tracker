@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-dll-utils",
+  "mode": "dev",
+  "version": "1.70.2-initial-dll-dev",
+  "fullname": "@nebulario/tracker-dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-utils.git",
+  "publish": {
+    "commitid": "780ced9fc0a01bbe4f09cc03301fe55ceadfb761",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "8ebfcabdcc53ae4b1155c7b09eec786ea2a0544e",
+    "message": "Add MIT license\n"
+  },
+  "mergeback": {
+    "commitid": "278f9e448e1ec677b67c7aee42754f24b8c4def7",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561143826,
+  "updated": 1561143826,
+  "status": "active"
+}

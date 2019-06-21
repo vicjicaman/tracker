@@ -1,0 +1,13 @@
+{
+  "moduleid": "tracker-dll-apollo",
+  "releases": [
+    {
+      "releaseid": "initial-dll"
+    }
+  ],
+  "created": 1561146435,
+  "updated": 1561146435,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-dll-apollo",
+  "mode": "dev",
+  "version": "1.70.0-initial-dll-dev",
+  "fullname": "@nebulario/tracker-dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-apollo.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6f48e48eae0fa53d033b354966073198fcbd18f0",
+    "message": "Add MIT license\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561139091,
+  "updated": 1561139091,
+  "status": "active"
+}
