@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-vendor.git",
   "fullname": "@nebulario/tracker-dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1561136949,
   "status": "active",
   "commit": {
-    "commitid": "1b7a73f82d237c9dc5f8e796c3c8d2b316644218",
-    "message": "Add MIT license\n"
+    "commitid": "39d2f367d0bf165010571426ae194b75a4d262cf",
+    "message": "ITERATION:3\n"
   }
 }

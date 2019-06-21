@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-react.git",
   "fullname": "@nebulario/tracker-dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1561136271,
   "status": "active",
   "commit": {
-    "commitid": "e8f94616da09b2423c25866edfa9a8c4f5c36973",
-    "message": "Add MIT license\n"
+    "commitid": "53ec7c6ca5074983c12b74e14f4cb107f3b0f2fa",
+    "message": "ITERATION:3\n"
   }
 }
