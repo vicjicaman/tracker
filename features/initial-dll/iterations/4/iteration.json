@@ -1,0 +1,41 @@
+{
+  "iterationid": 4,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-dll-apollo",
+    "tracker-dll-react",
+    "tracker-dll-redux",
+    "tracker-dll-utils",
+    "tracker-dll-vendor"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-dll-apollo",
+      "version": "1.70.3-initial-dll-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "tracker-dll-react",
+      "version": "1.70.3-initial-dll-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "tracker-dll-redux",
+      "version": "1.70.3-initial-dll-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "tracker-dll-utils",
+      "version": "1.70.3-initial-dll-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "tracker-dll-vendor",
+      "version": "1.70.3-initial-dll-prod",
+      "iterationid": 4
+    }
+  ],
+  "created": 1561144483,
+  "updated": 1561144483,
+  "status": "active"
+}
