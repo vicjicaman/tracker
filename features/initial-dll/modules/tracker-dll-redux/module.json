@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-redux.git",
+  "fullname": "@nebulario/tracker-dll-redux",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Redux related packages",
+  "created": 1561136851,
+  "updated": 1561136851,
+  "status": "active"
+}
