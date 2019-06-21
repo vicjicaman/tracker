@@ -5,15 +5,286 @@
   "fullname": "@nebulario/tracker-dll-apollo",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-dll-apollo.git",
-  "publish": null,
+  "publish": {
+    "commitid": "85fdf0d2f163f8d436e2b93eec7a8ab75a665b59",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "2c247dd1fd0e8357d1e00db7c2dbfbbf7a67b35b",
     "message": "ITERATION:4\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d6063ac6e44fea99f276d237fb1886a161919824",
+    "message": "RELEASE:initial-dll:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Apollo related packages",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/tracker-dll-apollo",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-cache-inmemory",
+      "fullname": "apollo-cache-inmemory",
+      "version": "^1.1.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-cache-inmemory"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-client",
+      "fullname": "apollo-client",
+      "version": "^2.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-link",
+      "fullname": "apollo-link",
+      "version": "^1.0.7",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-link"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-link-http",
+      "fullname": "apollo-link-http",
+      "version": "^1.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-link-http"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql",
+      "fullname": "graphql",
+      "version": "^0.13.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-tag",
+      "fullname": "graphql-tag",
+      "version": "^2.8.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-tag"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^2.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.autoprefixer",
+      "fullname": "autoprefixer",
+      "version": "^7.2.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.autoprefixer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-node",
+      "fullname": "babel-plugin-dynamic-import-node",
+      "version": "^1.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-node"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-webpack",
+      "fullname": "babel-plugin-dynamic-import-webpack",
+      "version": "^1.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-syntax-dynamic-import",
+      "fullname": "babel-plugin-syntax-dynamic-import",
+      "version": "^6.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-syntax-dynamic-import"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-react",
+      "fullname": "babel-preset-react",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.chunk-manifest-webpack-plugin",
+      "fullname": "chunk-manifest-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.chunk-manifest-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.file-loader",
+      "fullname": "file-loader",
+      "version": "^1.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.file-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.lodash",
+      "fullname": "lodash",
+      "version": "^4.17.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.lodash"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon-webpack-plugin",
+      "fullname": "nodemon-webpack-plugin",
+      "version": "^0.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.on-build-webpack",
+      "fullname": "on-build-webpack",
+      "version": "^0.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.on-build-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react",
+      "fullname": "react",
+      "version": "^16.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.shelljs",
+      "fullname": "shelljs",
+      "version": "^0.7.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.shelljs"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-manifest-plugin",
+      "fullname": "webpack-manifest-plugin",
+      "version": "^1.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-manifest-plugin"
+    }
+  ],
   "created": 1561146049,
   "updated": 1561146049,
   "status": "active"

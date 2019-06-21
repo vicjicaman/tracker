@@ -1,0 +1,13 @@
+{
+  "moduleid": "tracker-dll-utils",
+  "releases": [
+    {
+      "releaseid": "initial-dll"
+    }
+  ],
+  "created": 1561146436,
+  "updated": 1561146436,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}
