@@ -12,5 +12,9 @@
   "description": "Server side render configuration of cache and reducers",
   "created": 1561138781,
   "updated": 1561138781,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "22e052702ed46f88892b5c71428535818ca3a7dd",
+    "message": "Change the package information and LICENSE\n"
+  }
 }

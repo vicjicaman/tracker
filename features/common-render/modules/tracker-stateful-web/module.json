@@ -12,5 +12,9 @@
   "description": "Functionality to render the web app",
   "created": 1561138726,
   "updated": 1561138726,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a07a331fcd6ba3149a55e93ad80e0aa360fca3b8",
+    "message": "Change the package information and LICENSE\n"
+  }
 }
