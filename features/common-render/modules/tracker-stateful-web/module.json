@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stateful-web.git",
   "fullname": "@nebulario/tracker-stateful-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
