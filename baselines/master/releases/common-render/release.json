@@ -1,0 +1,11 @@
+{
+  "releaseid": "common-render",
+  "phase": "released",
+  "hierarchy": [
+    "tracker-stateful-server",
+    "tracker-stateful-web"
+  ],
+  "created": 1561146935,
+  "updated": 1561146935,
+  "status": "active"
+}

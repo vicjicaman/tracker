@@ -1,0 +1,13 @@
+{
+  "moduleid": "tracker-stateful-server",
+  "releases": [
+    {
+      "releaseid": "common-render"
+    }
+  ],
+  "created": 1561148262,
+  "updated": 1561148262,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}
