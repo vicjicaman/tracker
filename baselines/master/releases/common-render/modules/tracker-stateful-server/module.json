@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-render",
+  "moduleid": "tracker-stateful-server",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "837a8a9d3184d15abb3b258927c73e958110195e",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Server side render configuration of cache and reducers",
+  "dependencies": [],
+  "created": 1561146935,
+  "updated": 1561146935,
+  "status": "active"
+}

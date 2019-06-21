@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-render",
+  "moduleid": "tracker-stateful-web",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "a316eb766a5e7d70d2fac65b696b526d0acc3318",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Functionality to render the web app",
+  "dependencies": [],
+  "created": 1561146935,
+  "updated": 1561146935,
+  "status": "active"
+}
