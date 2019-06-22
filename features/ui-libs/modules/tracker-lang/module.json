@@ -14,7 +14,7 @@
   "updated": 1561195659,
   "status": "active",
   "commit": {
-    "commitid": "ccd1fc9f7bf867d54f86eefcda0b4533b5a8ad5a",
-    "message": "Change license to MIT\n"
+    "commitid": "cfca5a397881ee378da07df20d8c9e6c9114a26c",
+    "message": "Change license, mail and package name\n"
   }
 }
