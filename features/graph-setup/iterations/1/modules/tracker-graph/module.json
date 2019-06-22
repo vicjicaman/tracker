@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-graph",
+  "mode": "prod",
+  "version": "1.70.0-graph-setup-prod",
+  "fullname": "@nebulario/tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "036cf6ad0844fac4d8e26951fddcdb9d139f3010",
+    "message": "Remove .env template\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561207711,
+  "updated": 1561207711,
+  "status": "active"
+}
