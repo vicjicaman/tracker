@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-layout.git",
   "fullname": "@nebulario/tracker-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Layout componet",
   "created": 1561196584,
   "updated": 1561196584,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7a386caf530484f48660085c1ebe0881631a0fbd",
+    "message": "Change license to MIT\n"
+  }
 }

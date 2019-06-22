@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-notify.git",
   "fullname": "@nebulario/tracker-notify",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Notification package",
   "created": 1561195535,
   "updated": 1561195535,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e0decd43fef13192374627026fe3541573258dc5",
+    "message": "Change license to MIT\n"
+  }
 }

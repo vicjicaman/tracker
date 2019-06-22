@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-lang.git",
   "fullname": "@nebulario/tracker-lang",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Language HOC abstraction and configuration",
   "created": 1561195659,
   "updated": 1561195659,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ccd1fc9f7bf867d54f86eefcda0b4533b5a8ad5a",
+    "message": "Change license to MIT\n"
+  }
 }
