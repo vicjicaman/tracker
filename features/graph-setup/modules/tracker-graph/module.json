@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-graph.git",
   "fullname": "@nebulario/tracker-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "GraphQL API for the tracker",
   "created": 1561150551,
   "updated": 1561150551,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "036cf6ad0844fac4d8e26951fddcdb9d139f3010",
+    "message": "Remove .env template\n"
+  }
 }
