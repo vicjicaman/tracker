@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "ui-libs"
+    },
+    {
       "releaseid": "common-render"
     },
     {
@@ -14,7 +17,12 @@
     "tracker-dll-react",
     "tracker-dll-redux",
     "tracker-dll-utils",
-    "tracker-dll-vendor"
+    "tracker-dll-vendor",
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify",
+    "tracker-stateful-server",
+    "tracker-stateful-web"
   ],
   "created": 1561136093,
   "updated": 1561136093,

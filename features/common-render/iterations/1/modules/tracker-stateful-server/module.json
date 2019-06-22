@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-stateful-server",
+  "mode": "dev",
+  "version": "1.70.0-common-render-dev",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "22e052702ed46f88892b5c71428535818ca3a7dd",
+    "message": "Change the package information and LICENSE\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561145170,
+  "updated": 1561145170,
+  "status": "active"
+}

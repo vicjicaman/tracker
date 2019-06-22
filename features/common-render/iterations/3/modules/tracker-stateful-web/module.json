@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-stateful-web",
+  "mode": "dev",
+  "version": "1.70.2-common-render-dev",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "publish": {
+    "commitid": "6a9daaf595cd94e5994c7dec0f8709488252511d",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "a07a331fcd6ba3149a55e93ad80e0aa360fca3b8",
+    "message": "Change the package information and LICENSE\n"
+  },
+  "mergeback": {
+    "commitid": "640a366b1c21678ddea1413dc7571a362188a8ef",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561145632,
+  "updated": 1561145632,
+  "status": "active"
+}

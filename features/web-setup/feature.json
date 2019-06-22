@@ -1,0 +1,8 @@
+{
+  "featureid": "web-setup",
+  "baselineid": "master",
+  "description": "Initial UI for the tracker",
+  "created": 1561149042,
+  "updated": 1561149042,
+  "status": "active"
+}
