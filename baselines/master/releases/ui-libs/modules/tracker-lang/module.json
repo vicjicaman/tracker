@@ -1,0 +1,20 @@
+{
+  "releaseid": "ui-libs",
+  "moduleid": "tracker-lang",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-lang.git",
+  "publish": null,
+  "released": {
+    "commitid": "6a5b9a551bbe02ecc65a48d83b34a6420fce9383",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Language HOC abstraction and configuration",
+  "dependencies": [],
+  "created": 1561197714,
+  "updated": 1561197714,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "ui-libs",
+  "moduleid": "tracker-notify",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-notify.git",
+  "publish": null,
+  "released": {
+    "commitid": "e48df6eef7c3d2ebb2a127f31607863ef21a65ce",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Notification package",
+  "dependencies": [],
+  "created": 1561197714,
+  "updated": 1561197714,
+  "status": "active"
+}
