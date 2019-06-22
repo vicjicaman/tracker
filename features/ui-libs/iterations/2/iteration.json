@@ -1,0 +1,29 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-lang",
+      "version": "1.70.1-ui-libs-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-layout",
+      "version": "1.70.1-ui-libs-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-notify",
+      "version": "1.70.1-ui-libs-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1561197421,
+  "updated": 1561197421,
+  "status": "active"
+}

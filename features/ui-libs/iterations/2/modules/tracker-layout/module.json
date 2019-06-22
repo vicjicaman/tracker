@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-layout",
+  "mode": "prod",
+  "version": "1.70.1-ui-libs-prod",
+  "fullname": "@nebulario/tracker-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "41a105add4224509443b8bdbc003eecdb0fadff8",
+    "message": "Change license, mail and package name\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561197421,
+  "updated": 1561197421,
+  "status": "active"
+}

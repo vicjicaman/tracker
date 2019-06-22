@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-lang",
+  "mode": "prod",
+  "version": "1.70.1-ui-libs-prod",
+  "fullname": "@nebulario/tracker-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-lang.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "cfca5a397881ee378da07df20d8c9e6c9114a26c",
+    "message": "Change license, mail and package name\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561197421,
+  "updated": 1561197421,
+  "status": "active"
+}

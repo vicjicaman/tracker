@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-notify",
+  "mode": "prod",
+  "version": "1.70.1-ui-libs-prod",
+  "fullname": "@nebulario/tracker-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-notify.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a30c1f4fd573030144d9b3109a2d31d542fa1723",
+    "message": "Change license, mail and package name\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561197421,
+  "updated": 1561197421,
+  "status": "active"
+}
