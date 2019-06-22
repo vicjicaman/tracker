@@ -3,6 +3,12 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "server-core"
+    },
+    {
+      "releaseid": "ui-libs"
+    },
+    {
       "releaseid": "common-render"
     },
     {
@@ -10,11 +16,16 @@
     }
   ],
   "hierarchy": [
+    "tracker-layout",
     "tracker-dll-apollo",
-    "tracker-dll-react",
     "tracker-dll-redux",
     "tracker-dll-utils",
     "tracker-dll-vendor",
+    "tracker-lang",
+    "tracker-dll-react",
+    "tracker-node",
+    "tracker-notify",
+    "tracker-process",
     "tracker-stateful-server",
     "tracker-stateful-web"
   ],

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-lang",
+  "mode": "prod",
+  "version": "1.70.0-ui-libs-prod",
+  "fullname": "@nebulario/tracker-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-lang.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ccd1fc9f7bf867d54f86eefcda0b4533b5a8ad5a",
+    "message": "Change license to MIT\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561196968,
+  "updated": 1561196968,
+  "status": "active"
+}

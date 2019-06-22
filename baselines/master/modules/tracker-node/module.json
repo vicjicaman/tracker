@@ -1,0 +1,13 @@
+{
+  "moduleid": "tracker-node",
+  "releases": [
+    {
+      "releaseid": "server-core"
+    }
+  ],
+  "created": 1561199103,
+  "updated": 1561199103,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}

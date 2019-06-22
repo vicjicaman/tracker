@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-layout",
+  "mode": "prod",
+  "version": "1.70.0-ui-libs-prod",
+  "fullname": "@nebulario/tracker-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7a386caf530484f48660085c1ebe0881631a0fbd",
+    "message": "Change license to MIT\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561196968,
+  "updated": 1561196968,
+  "status": "active"
+}
