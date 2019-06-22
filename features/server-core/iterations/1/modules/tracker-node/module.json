@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-node",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-node.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2c07f15b757998927e39e238d2d1539ed9d26a32",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "8f731b2c3be8cbd7f5c17afe7105b70ef19651ea",
     "message": "Update license, mail and repository\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "afbc21915325b84600f32deae3186857f9a6c83b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561198700,
   "updated": 1561198700,
