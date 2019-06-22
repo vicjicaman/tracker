@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-node",
+  "mode": "prod",
+  "version": "1.70.0-server-core-prod",
+  "fullname": "@nebulario/tracker-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-node.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8f731b2c3be8cbd7f5c17afe7105b70ef19651ea",
+    "message": "Update license, mail and repository\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561198700,
+  "updated": 1561198700,
+  "status": "active"
+}
