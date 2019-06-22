@@ -1,6 +1,6 @@
 {
   "releaseid": "ui-libs",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-lang",
     "tracker-layout",
