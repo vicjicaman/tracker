@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-lang.git",
+  "fullname": "@nebulario/tracker-lang",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Language HOC abstraction and configuration",
+  "created": 1561195659,
+  "updated": 1561195659,
+  "status": "active"
+}

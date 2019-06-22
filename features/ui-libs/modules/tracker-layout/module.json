@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-layout.git",
+  "fullname": "@nebulario/tracker-layout",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Layout component",
+  "created": 1561195015,
+  "updated": 1561195015,
+  "status": "active"
+}

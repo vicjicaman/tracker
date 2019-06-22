@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-component",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-component.git",
+  "fullname": "@nebulario/tracker-component",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General component state",
+  "created": 1561195229,
+  "updated": 1561195229,
+  "status": "active"
+}
