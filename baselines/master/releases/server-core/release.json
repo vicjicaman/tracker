@@ -1,0 +1,11 @@
+{
+  "releaseid": "server-core",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-node",
+    "tracker-process"
+  ],
+  "created": 1561198974,
+  "updated": 1561198974,
+  "status": "active"
+}

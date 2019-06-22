@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "server-core"
+    },
+    {
       "releaseid": "ui-libs"
     },
     {
