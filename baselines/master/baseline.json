@@ -16,14 +16,16 @@
     }
   ],
   "hierarchy": [
+    "tracker-layout",
     "tracker-dll-apollo",
-    "tracker-dll-react",
     "tracker-dll-redux",
     "tracker-dll-utils",
     "tracker-dll-vendor",
     "tracker-lang",
-    "tracker-layout",
+    "tracker-dll-react",
+    "tracker-node",
     "tracker-notify",
+    "tracker-process",
     "tracker-stateful-server",
     "tracker-stateful-web"
   ],

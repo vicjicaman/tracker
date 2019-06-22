@@ -1,6 +1,6 @@
 {
   "releaseid": "server-core",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-node",
     "tracker-process"
