@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "ui-libs"
+    },
+    {
       "releaseid": "common-render"
     },
     {

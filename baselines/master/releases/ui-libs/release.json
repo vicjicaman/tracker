@@ -1,0 +1,12 @@
+{
+  "releaseid": "ui-libs",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify"
+  ],
+  "created": 1561197714,
+  "updated": 1561197714,
+  "status": "active"
+}
