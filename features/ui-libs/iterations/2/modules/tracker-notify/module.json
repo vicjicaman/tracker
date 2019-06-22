@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-notify",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-notify.git",
-  "publish": null,
+  "publish": {
+    "commitid": "da2e486eefd186f53aceda3b1f92490450abc482",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "a30c1f4fd573030144d9b3109a2d31d542fa1723",
     "message": "Change license, mail and package name\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e48df6eef7c3d2ebb2a127f31607863ef21a65ce",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1561197421,
   "updated": 1561197421,

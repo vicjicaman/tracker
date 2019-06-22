@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-layout",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-layout.git",
-  "publish": null,
+  "publish": {
+    "commitid": "72d5876112d7681c585a80fa17b109eeab20fc8d",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "41a105add4224509443b8bdbc003eecdb0fadff8",
     "message": "Change license, mail and package name\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "728f5ab22c43eb9f49b5b676af7a818aa6966545",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1561197421,
   "updated": 1561197421,
