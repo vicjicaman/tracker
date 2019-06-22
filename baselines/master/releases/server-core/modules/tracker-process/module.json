@@ -1,0 +1,20 @@
+{
+  "releaseid": "server-core",
+  "moduleid": "tracker-process",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-process.git",
+  "publish": null,
+  "released": {
+    "commitid": "074b10e2de3321ab48f162fb84168a984fece7bf",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Process and async utilities",
+  "dependencies": [],
+  "created": 1561198974,
+  "updated": 1561198974,
+  "status": "active"
+}
