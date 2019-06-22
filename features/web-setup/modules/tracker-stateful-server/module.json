@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
   "fullname": "@nebulario/tracker-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Server side render configuration of cache and reducers",
   "created": 1561215185,
   "updated": 1561215185,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9e145a69871b05d699bcf1241909a50fb6b6eda0",
+    "message": "Change license, email and package names\n"
+  }
 }

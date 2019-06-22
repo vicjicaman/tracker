@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-common.git",
   "fullname": "@nebulario/tracker-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code for the UI",
   "created": 1561150063,
   "updated": 1561150063,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a91d10a4b594b04a614d6e7b016d34f12219a914",
+    "message": "Change license, email and package names\n"
+  }
 }
