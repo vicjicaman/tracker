@@ -14,7 +14,7 @@
   "updated": 1561150551,
   "status": "active",
   "commit": {
-    "commitid": "b18cd3dee2b533385ae841325c3c18b1046f0d63",
-    "message": "ITERATION:1\n"
+    "commitid": "dff103c7fc8c1d5f88d5195f76cb33d391b9954c",
+    "message": "Fix comment mapper issue\n"
   }
 }
