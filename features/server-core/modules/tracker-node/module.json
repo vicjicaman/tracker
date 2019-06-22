@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-node.git",
+  "fullname": "@nebulario/tracker-node",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General config for a server node",
+  "created": 1561198289,
+  "updated": 1561198289,
+  "status": "active"
+}
