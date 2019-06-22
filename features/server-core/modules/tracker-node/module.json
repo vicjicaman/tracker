@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-node.git",
   "fullname": "@nebulario/tracker-node",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "General config for a server node",
   "created": 1561198289,
   "updated": 1561198289,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a8847d58729f31ee6cf070adcfdc72c91aafb256",
+    "message": "Initial commit"
+  }
 }

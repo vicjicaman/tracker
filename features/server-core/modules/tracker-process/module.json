@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-process.git",
   "fullname": "@nebulario/tracker-process",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Process and async utilities",
   "created": 1561147304,
   "updated": 1561147304,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d192ccc842d62b4571b396f8b4f8c1d277cfe4e6",
+    "message": "Initial commit"
+  }
 }
