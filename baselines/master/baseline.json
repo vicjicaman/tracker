@@ -18,6 +18,9 @@
     "tracker-dll-redux",
     "tracker-dll-utils",
     "tracker-dll-vendor",
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify",
     "tracker-stateful-server",
     "tracker-stateful-web"
   ],

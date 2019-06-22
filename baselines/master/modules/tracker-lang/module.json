@@ -1,0 +1,13 @@
+{
+  "moduleid": "tracker-lang",
+  "releases": [
+    {
+      "releaseid": "ui-libs"
+    }
+  ],
+  "created": 1561198000,
+  "updated": 1561198000,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}
