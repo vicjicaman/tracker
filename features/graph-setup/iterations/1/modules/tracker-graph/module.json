@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "679562bdee7c3675f98bc8cc74cf9b76fd7b3a45",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "036cf6ad0844fac4d8e26951fddcdb9d139f3010",
     "message": "Remove .env template\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b18cd3dee2b533385ae841325c3c18b1046f0d63",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561207711,
   "updated": 1561207711,
