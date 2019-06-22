@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-lang",
+      "iterationid": 1,
+      "version": "1.70.0-ui-libs-prod"
+    },
+    {
+      "moduleid": "tracker-layout",
+      "iterationid": 1,
+      "version": "1.70.0-ui-libs-prod"
+    },
+    {
+      "moduleid": "tracker-notify",
+      "iterationid": 1,
+      "version": "1.70.0-ui-libs-prod"
+    }
+  ],
+  "created": 1561196968,
+  "updated": 1561196968,
+  "status": "active"
+}

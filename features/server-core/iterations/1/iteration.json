@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-node",
+    "tracker-process"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-node",
+      "iterationid": 1,
+      "version": "1.70.0-server-core-prod"
+    },
+    {
+      "moduleid": "tracker-process",
+      "iterationid": 1,
+      "version": "1.70.0-server-core-prod"
+    }
+  ],
+  "created": 1561198700,
+  "updated": 1561198700,
+  "status": "active"
+}
