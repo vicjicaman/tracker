@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "graph-setup"
+    },
+    {
       "releaseid": "server-core"
     },
     {

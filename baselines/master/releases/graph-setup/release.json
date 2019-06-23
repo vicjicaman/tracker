@@ -1,0 +1,10 @@
+{
+  "releaseid": "graph-setup",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-graph"
+  ],
+  "created": 1561292046,
+  "updated": 1561292046,
+  "status": "active"
+}
