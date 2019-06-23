@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2696fa179431ba17d2803e6b37368af1baa833e6",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "c052ba2ce5a510ee66676706e58ee4e4422fbc57",
     "message": "Initial compose and images for container execution\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cf6635800fe98499decc1074a89659bef98c1acb",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561308433,
   "updated": 1561308433,

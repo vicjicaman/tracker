@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "94d30f4c35e4f0468ca0a63af1a4a597f076c402",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "bd388b58feb9f2ed585ac5e5f4efa489405cc6ca",
     "message": "Initial compose and images for container execution\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "313b051ee067495dcf9a494fe23f869f0a8e88bc",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561308433,
   "updated": 1561308433,
