@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-common",
+  "mode": "prod",
+  "version": "1.70.0-web-setup-prod",
+  "fullname": "@nebulario/tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a91d10a4b594b04a614d6e7b016d34f12219a914",
+    "message": "Change license, email and package names\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561278965,
+  "updated": 1561278965,
+  "status": "active"
+}
