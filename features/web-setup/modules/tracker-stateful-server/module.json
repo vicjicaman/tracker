@@ -14,7 +14,7 @@
   "updated": 1561215185,
   "status": "active",
   "commit": {
-    "commitid": "9e145a69871b05d699bcf1241909a50fb6b6eda0",
-    "message": "Change license, email and package names\n"
+    "commitid": "e15f97d2743c43415ec2fb34d989fbc918799a09",
+    "message": "Change the issues list to the workspace home page\n"
   }
 }
