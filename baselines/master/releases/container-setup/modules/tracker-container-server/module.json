@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-setup",
+  "moduleid": "tracker-container-server",
+  "version": "1.70.0-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "313b051ee067495dcf9a494fe23f869f0a8e88bc",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for UI server",
+  "dependencies": [],
+  "created": 1561327301,
+  "updated": 1561327301,
+  "status": "active"
+}

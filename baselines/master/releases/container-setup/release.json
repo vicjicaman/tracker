@@ -1,0 +1,12 @@
+{
+  "releaseid": "container-setup",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-compose",
+    "tracker-container-graph",
+    "tracker-container-server"
+  ],
+  "created": 1561327301,
+  "updated": 1561327301,
+  "status": "active"
+}
