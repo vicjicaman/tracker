@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-server",
+  "mode": "prod",
+  "version": "1.70.1-web-setup-prod",
+  "fullname": "@nebulario/tracker-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0e7ba7cad31adffbeeeacafe5efe5b8b2bce8100",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561291933,
+  "updated": 1561291933,
+  "status": "active"
+}
