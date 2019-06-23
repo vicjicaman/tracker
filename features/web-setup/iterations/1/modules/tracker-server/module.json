@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-server",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c52d6217f78dca631da690ce7bce27b37f40a979",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "5c7e13f561fe6a3e720f74a04aa83cd487c85ab0",
     "message": "Change license, email and package names\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0e7ba7cad31adffbeeeacafe5efe5b8b2bce8100",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561278965,
   "updated": 1561278965,

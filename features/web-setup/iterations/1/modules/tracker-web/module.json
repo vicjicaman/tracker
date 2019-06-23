@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-web",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "682d5a98223a21dfccad37845bc9017a19d91467",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "6f5042c92229b9a0eca46fee14278d3b73be6293",
     "message": "Change license, email and package names\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "69f07565140e54ee950fe62e6da807de95b53a14",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561278965,
   "updated": 1561278965,

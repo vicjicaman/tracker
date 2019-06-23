@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stateful-server",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "de4b5d6ba3af72cb6d7718478ec0728c34c32f29",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "9e145a69871b05d699bcf1241909a50fb6b6eda0",
     "message": "Change license, email and package names\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "986e1571d2151119bd74557fba91a8794497aac5",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561278965,
   "updated": 1561278965,
