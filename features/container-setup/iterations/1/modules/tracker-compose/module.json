@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-compose",
+  "mode": "prod",
+  "version": "1.70.0-container-setup-prod",
+  "fullname": "tracker-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/tracker-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "01314f809a570a45462368e464662cdad95e1827",
+    "message": "Initial compose and images for container execution\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561308433,
+  "updated": 1561308433,
+  "status": "active"
+}

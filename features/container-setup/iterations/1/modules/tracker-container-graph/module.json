@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-container-setup-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c052ba2ce5a510ee66676706e58ee4e4422fbc57",
+    "message": "Initial compose and images for container execution\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561308433,
+  "updated": 1561308433,
+  "status": "active"
+}
