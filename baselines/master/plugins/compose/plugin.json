@@ -1,8 +1,8 @@
 {
   "pluginid": "compose",
   "fullname": "@nebulario/repoflow-plugin-compose",
-  "version": "linked",
-  "created": 1561302360,
-  "updated": 1561302360,
+  "version": "default",
+  "created": 1561325346,
+  "updated": 1561325346,
   "status": "active"
 }

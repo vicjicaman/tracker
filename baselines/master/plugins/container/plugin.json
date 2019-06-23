@@ -1,8 +1,8 @@
 {
   "pluginid": "container",
   "fullname": "@nebulario/repoflow-plugin-container",
-  "version": "linked",
-  "created": 1561296396,
-  "updated": 1561296396,
+  "version": "default",
+  "created": 1561325321,
+  "updated": 1561325321,
   "status": "active"
 }
