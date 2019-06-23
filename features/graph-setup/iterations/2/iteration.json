@@ -1,0 +1,17 @@
+{
+  "iterationid": 2,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-graph",
+      "version": "1.70.1-graph-setup-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1561278983,
+  "updated": 1561278983,
+  "status": "active"
+}

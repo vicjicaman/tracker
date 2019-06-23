@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-graph",
+  "mode": "prod",
+  "version": "1.70.1-graph-setup-prod",
+  "fullname": "@nebulario/tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "publish": {
+    "commitid": "fecafc8dee1aaf7207d10fb5320d18b3faa10a61",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "dff103c7fc8c1d5f88d5195f76cb33d391b9954c",
+    "message": "Fix comment mapper issue\n"
+  },
+  "mergeback": {
+    "commitid": "fa2fae24c11a02670ea0064a6db5cf57d9742ef5",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1561278983,
+  "updated": 1561278983,
+  "status": "active"
+}

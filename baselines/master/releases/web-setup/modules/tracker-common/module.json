@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-setup",
+  "moduleid": "tracker-common",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "8bc5e2c9998b19a951be47d66a653f2f0a3eabf1",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common code for the UI",
+  "dependencies": [],
+  "created": 1561292615,
+  "updated": 1561292615,
+  "status": "active"
+}
