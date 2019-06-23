@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "container-setup"
+    },
+    {
       "releaseid": "web-setup"
     },
     {
