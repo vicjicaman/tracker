@@ -2,7 +2,7 @@
   "moduleid": "tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
   "iteration": {
     "mode": "dev"
   },
