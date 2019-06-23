@@ -1,0 +1,80 @@
+{
+  "moduleid": "tracker-common",
+  "releases": [
+    {
+      "releaseid": "web-setup"
+    }
+  ],
+  "created": 1561293666,
+  "updated": 1561293666,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
+          "fullname": "@nebulario/tracker-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
+          "fullname": "@nebulario/tracker-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-common"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "tracker-lang",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-lang",
+          "fullname": "@nebulario/tracker-lang",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-lang"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-layout",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-layout",
+          "fullname": "@nebulario/tracker-layout",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-notify",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-notify",
+          "fullname": "@nebulario/tracker-notify",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-notify"
+        }
+      ]
+    }
+  ]
+}

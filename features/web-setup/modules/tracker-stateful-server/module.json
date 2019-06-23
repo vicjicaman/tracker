@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Server side render configuration of cache and reducers",
+  "created": 1561215185,
+  "updated": 1561215185,
+  "status": "active",
+  "commit": {
+    "commitid": "e928c53c425e034edf2f641509c145890195a4af",
+    "message": "ITERATION:2\n"
+  }
+}

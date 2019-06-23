@@ -8,6 +8,20 @@
   "created": 1561198000,
   "updated": 1561198000,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-lang",
+          "fullname": "@nebulario/tracker-lang",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-lang"
+        }
+      ]
+    }
+  ],
   "dependents": []
 }

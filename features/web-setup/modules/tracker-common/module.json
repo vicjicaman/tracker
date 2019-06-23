@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "fullname": "@nebulario/tracker-common",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common code for the UI",
+  "created": 1561150063,
+  "updated": 1561150063,
+  "status": "active",
+  "commit": {
+    "commitid": "8bc5e2c9998b19a951be47d66a653f2f0a3eabf1",
+    "message": "ITERATION:2\n"
+  }
+}
