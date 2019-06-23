@@ -1,0 +1,13 @@
+{
+  "releaseid": "web-setup",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-stateful-server",
+    "tracker-web",
+    "tracker-common"
+  ],
+  "created": 1561292615,
+  "updated": 1561292615,
+  "status": "active"
+}
