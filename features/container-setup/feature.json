@@ -1,0 +1,8 @@
+{
+  "featureid": "container-setup",
+  "baselineid": "master",
+  "description": "Generate container modules for graph and UI",
+  "created": 1561293472,
+  "updated": 1561293472,
+  "status": "active"
+}
