@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "graph-setup"
+    },
+    {
       "releaseid": "server-core"
     },
     {
@@ -16,18 +19,19 @@
     }
   ],
   "hierarchy": [
-    "tracker-layout",
+    "tracker-lang",
     "tracker-dll-apollo",
     "tracker-dll-redux",
     "tracker-dll-utils",
     "tracker-dll-vendor",
-    "tracker-lang",
+    "tracker-graph",
     "tracker-dll-react",
-    "tracker-node",
-    "tracker-notify",
-    "tracker-process",
+    "tracker-layout",
     "tracker-stateful-server",
-    "tracker-stateful-web"
+    "tracker-notify",
+    "tracker-stateful-web",
+    "tracker-process",
+    "tracker-node"
   ],
   "created": 1561136093,
   "updated": 1561136093,

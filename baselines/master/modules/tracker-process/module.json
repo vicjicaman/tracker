@@ -8,6 +8,20 @@
   "created": 1561199103,
   "updated": 1561199103,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
+          "fullname": "@nebulario/tracker-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-process"
+        }
+      ]
+    }
+  ],
   "dependents": []
 }
