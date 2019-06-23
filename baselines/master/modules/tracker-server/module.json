@@ -8,7 +8,21 @@
   "created": 1561293664,
   "updated": 1561293664,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-container-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+          "fullname": "@nebulario/tracker-server",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-server"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "tracker-node",
