@@ -1,0 +1,41 @@
+{
+  "moduleid": "tracker-container-server",
+  "releases": [
+    {
+      "releaseid": "container-setup"
+    }
+  ],
+  "created": 1561328215,
+  "updated": 1561328215,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-compose",
+      "references": [
+        {
+          "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "docker-compose.yml",
+          "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "tracker-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+          "fullname": "@nebulario/tracker-server",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-server"
+        }
+      ]
+    }
+  ]
+}
