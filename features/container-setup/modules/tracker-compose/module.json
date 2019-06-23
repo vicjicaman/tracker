@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-compose.git",
   "fullname": "tracker-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Compose script for the tracker",
   "created": 1561294814,
   "updated": 1561294814,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "01314f809a570a45462368e464662cdad95e1827",
+    "message": "Initial compose and images for container execution\n"
+  }
 }
