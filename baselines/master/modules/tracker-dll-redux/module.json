@@ -8,6 +8,33 @@
   "created": 1561146436,
   "updated": 1561146436,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-redux",
+          "fullname": "@nebulario/tracker-dll-redux",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-redux"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-redux",
+          "fullname": "@nebulario/tracker-dll-redux",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-redux"
+        }
+      ]
+    }
+  ],
   "dependents": []
 }

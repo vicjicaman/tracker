@@ -2,12 +2,29 @@
   "moduleid": "tracker-stateful-server",
   "releases": [
     {
+      "releaseid": "web-setup"
+    },
+    {
       "releaseid": "common-render"
     }
   ],
   "created": 1561148262,
   "updated": 1561148262,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
+          "fullname": "@nebulario/tracker-stateful-server",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-stateful-server"
+        }
+      ]
+    }
+  ],
   "dependents": []
 }
