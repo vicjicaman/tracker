@@ -1,0 +1,35 @@
+{
+  "iterationid": 2,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-stateful-server",
+    "tracker-web",
+    "tracker-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "version": "1.70.1-web-setup-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "version": "1.70.1-web-setup-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-web",
+      "version": "1.70.1-web-setup-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-common",
+      "version": "1.70.1-web-setup-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1561291933,
+  "updated": 1561291933,
+  "status": "active"
+}

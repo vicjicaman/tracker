@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-web",
+  "mode": "prod",
+  "version": "1.70.1-web-setup-prod",
+  "fullname": "@nebulario/tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "publish": {
+    "commitid": "b8960da31ae9102b46f235f74577645c5a62cb9e",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "69f07565140e54ee950fe62e6da807de95b53a14",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "335c76cb4ba0a15a8f1fcfba011e2a979254789a",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1561291933,
+  "updated": 1561291933,
+  "status": "active"
+}

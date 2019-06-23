@@ -1,0 +1,144 @@
+{
+  "moduleid": "tracker-server",
+  "releases": [
+    {
+      "releaseid": "web-setup"
+    }
+  ],
+  "created": 1561293664,
+  "updated": 1561293664,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "tracker-node",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-node",
+          "fullname": "@nebulario/tracker-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-node"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
+          "fullname": "@nebulario/tracker-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
+          "fullname": "@nebulario/tracker-stateful-server",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-stateful-server"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-dll-apollo",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-apollo",
+          "fullname": "@nebulario/tracker-dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-apollo"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-dll-react",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-react",
+          "fullname": "@nebulario/tracker-dll-react",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-react"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-dll-redux",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-redux",
+          "fullname": "@nebulario/tracker-dll-redux",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-redux"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-dll-utils",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-utils",
+          "fullname": "@nebulario/tracker-dll-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-dll-vendor",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-vendor",
+          "fullname": "@nebulario/tracker-dll-vendor",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-dll-vendor"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
+          "fullname": "@nebulario/tracker-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-web",
+          "fullname": "@nebulario/tracker-web",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-web"
+        }
+      ]
+    }
+  ]
+}

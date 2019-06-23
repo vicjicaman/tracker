@@ -8,7 +8,21 @@
   "created": 1561292449,
   "updated": 1561292449,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+          "fullname": "@nebulario/tracker-graph",
+          "version": "1.70.0-graph-setup-prod",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-graph"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "tracker-node",

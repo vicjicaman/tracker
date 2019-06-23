@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "fullname": "@nebulario/tracker-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Web deliverable for the UI",
+  "created": 1561149995,
+  "updated": 1561149995,
+  "status": "active",
+  "commit": {
+    "commitid": "335c76cb4ba0a15a8f1fcfba011e2a979254789a",
+    "message": "ITERATION:2\n"
+  }
+}

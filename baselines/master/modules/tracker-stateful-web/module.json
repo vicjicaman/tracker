@@ -8,6 +8,20 @@
   "created": 1561148262,
   "updated": 1561148262,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "tracker-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-web",
+          "fullname": "@nebulario/tracker-stateful-web",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-stateful-web"
+        }
+      ]
+    }
+  ],
   "dependents": []
 }
