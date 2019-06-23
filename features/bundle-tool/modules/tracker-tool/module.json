@@ -2,7 +2,7 @@
   "moduleid": "tracker-tool",
   "type": "bundle",
   "url": "github.com:vicjicaman/tracker-tool.git",
-  "fullname": "tracker-tool",
+  "fullname": "@nebulario/tracker-tool",
   "iteration": {
     "mode": "dev"
   },
