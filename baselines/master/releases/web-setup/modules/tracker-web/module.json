@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-setup",
+  "moduleid": "tracker-web",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "335c76cb4ba0a15a8f1fcfba011e2a979254789a",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Web deliverable for the UI",
+  "dependencies": [],
+  "created": 1561292615,
+  "updated": 1561292615,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-setup",
+  "moduleid": "tracker-stateful-server",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "e928c53c425e034edf2f641509c145890195a4af",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Server side render configuration of cache and reducers",
+  "dependencies": [],
+  "created": 1561292615,
+  "updated": 1561292615,
+  "status": "active"
+}
