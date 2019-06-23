@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-compose",
+    "tracker-container-graph",
+    "tracker-container-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-compose",
+      "iterationid": 1,
+      "version": "1.70.0-container-setup-prod"
+    },
+    {
+      "moduleid": "tracker-container-graph",
+      "iterationid": 1,
+      "version": "1.70.0-container-setup-prod"
+    },
+    {
+      "moduleid": "tracker-container-server",
+      "iterationid": 1,
+      "version": "1.70.0-container-setup-prod"
+    }
+  ],
+  "created": 1561308433,
+  "updated": 1561308433,
+  "status": "active"
+}

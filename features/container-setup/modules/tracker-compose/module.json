@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/tracker-compose.git",
+  "fullname": "tracker-compose",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Compose script for the tracker",
+  "created": 1561294814,
+  "updated": 1561294814,
+  "status": "active",
+  "commit": {
+    "commitid": "4ded7da5c2dce31d8466c2f3bde80d01d695f065",
+    "message": "ITERATION:1\n"
+  }
+}

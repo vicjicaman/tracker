@@ -1,6 +1,6 @@
 {
   "releaseid": "container-setup",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-compose",
     "tracker-container-graph",
