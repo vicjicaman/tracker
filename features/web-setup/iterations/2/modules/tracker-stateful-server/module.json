@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stateful-server",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c21d9cf8d987685bd116b91d9a7648c63394fd60",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "e15f97d2743c43415ec2fb34d989fbc918799a09",
     "message": "Change the issues list to the workspace home page\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e928c53c425e034edf2f641509c145890195a4af",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1561291933,
   "updated": 1561291933,

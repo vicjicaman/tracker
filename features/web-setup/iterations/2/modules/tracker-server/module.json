@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-server",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7f9dd20a12475b2462ca59377fe7a907bb052925",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "0e7ba7cad31adffbeeeacafe5efe5b8b2bce8100",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b633d1172b4a4551750cae7f4abcd51aeba91282",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1561291933,
   "updated": 1561291933,
