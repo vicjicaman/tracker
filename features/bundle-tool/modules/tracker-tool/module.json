@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/tracker-tool.git",
+  "fullname": "tracker-tool",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Bundle script for the tracker ",
+  "created": 1561329356,
+  "updated": 1561329356,
+  "status": "active"
+}
