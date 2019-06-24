@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-tool.git",
   "fullname": "@nebulario/tracker-tool",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Bundle script for the tracker ",
   "created": 1561396743,
   "updated": 1561396743,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "681c5a8f92999c1e7129d88d0bc378326dcf5f29",
+    "message": "Sync to latest version\n"
+  }
 }

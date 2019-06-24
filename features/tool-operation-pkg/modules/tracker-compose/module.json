@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-compose.git",
   "fullname": "tracker-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Compose script for the tracker",
   "created": 1561396751,
   "updated": 1561396751,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e197b2920363012e8690a1ec58dbfbd55ee8817b",
+    "message": "RELEASE:container-setup:1.70.0-master\n"
+  }
 }
