@@ -1,0 +1,41 @@
+{
+  "moduleid": "tracker-git",
+  "releases": [
+    {
+      "releaseid": "operation-pkg"
+    }
+  ],
+  "created": 1561396545,
+  "updated": 1561396545,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-git",
+          "fullname": "@nebulario/tracker-git",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-git"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "tracker-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
+          "fullname": "@nebulario/tracker-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-process"
+        }
+      ]
+    }
+  ]
+}
