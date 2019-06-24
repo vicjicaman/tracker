@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-stream",
+  "mode": "prod",
+  "version": "1.70.2-operation-pkg-prod",
+  "fullname": "@nebulario/tracker-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stream.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a63c326c6fde4a044c0eee09cf61314f7a02f3f5",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1561395098,
+  "updated": 1561395098,
+  "status": "active"
+}

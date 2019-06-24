@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-operation",
+  "mode": "prod",
+  "version": "1.70.2-operation-pkg-prod",
+  "fullname": "@nebulario/tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-operation.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "066ec10b1ac1d9386cd3f5f4ac10addde6c6fe5f",
+    "message": "Reference individual tracker packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1561395098,
+  "updated": 1561395098,
+  "status": "active"
+}
