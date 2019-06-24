@@ -1,0 +1,27 @@
+{
+  "moduleid": "tracker-stream",
+  "releases": [
+    {
+      "releaseid": "operation-pkg"
+    }
+  ],
+  "created": 1561396546,
+  "updated": 1561396546,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stream",
+          "fullname": "@nebulario/tracker-stream",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-stream"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

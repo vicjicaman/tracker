@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-events",
+  "mode": "prod",
+  "version": "1.70.1-operation-pkg-prod",
+  "fullname": "@nebulario/tracker-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "67635d9ca63161b4ef0ab548e5815ebe92297e31",
+    "message": "Add yarn lock\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561393901,
+  "updated": 1561393901,
+  "status": "active"
+}

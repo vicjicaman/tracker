@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "fullname": "@nebulario/tracker-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "GraphQL API for the tracker",
+  "created": 1561384662,
+  "updated": 1561384662,
+  "status": "active",
+  "commit": {
+    "commitid": "a2c4e68990e41e1c3d5b9f8f52a0123e06766442",
+    "message": "ITERATION:3\n"
+  }
+}

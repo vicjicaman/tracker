@@ -1,0 +1,47 @@
+{
+  "iterationid": 3,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-graph",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-events"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-graph",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "tracker-git",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "tracker-operation",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "tracker-ping",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "tracker-stream",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "tracker-events",
+      "version": "1.70.2-operation-pkg-prod",
+      "iterationid": 3
+    }
+  ],
+  "created": 1561395097,
+  "updated": 1561395097,
+  "status": "active"
+}
