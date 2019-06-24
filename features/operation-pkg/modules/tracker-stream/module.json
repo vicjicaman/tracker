@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stream.git",
   "fullname": "@nebulario/tracker-stream",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Stream functionality, updates, state and control",
   "created": 1561385656,
   "updated": 1561385656,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a63c326c6fde4a044c0eee09cf61314f7a02f3f5",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  }
 }

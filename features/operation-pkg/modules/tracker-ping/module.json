@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-ping.git",
   "fullname": "@nebulario/tracker-ping",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Ping functionality, update and state",
   "created": 1561385600,
   "updated": 1561385600,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a8cb14d1a795ece4696517d894dff482e17c6670",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  }
 }

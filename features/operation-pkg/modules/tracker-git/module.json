@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-git.git",
   "fullname": "@nebulario/tracker-git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Git API for common operations",
   "created": 1561385409,
   "updated": 1561385409,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "88cfcd975dea2563ddcb0d3f8bf0062e1da294d1",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  }
 }

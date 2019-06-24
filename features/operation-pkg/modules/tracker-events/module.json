@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-events.git",
   "fullname": "@nebulario/tracker-events",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Events route and communication",
   "created": 1561385226,
   "updated": 1561385226,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "67635d9ca63161b4ef0ab548e5815ebe92297e31",
+    "message": "Add yarn lock\n"
+  }
 }
