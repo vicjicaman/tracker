@@ -23,6 +23,19 @@
       ]
     },
     {
+      "moduleid": "tracker-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+          "fullname": "@nebulario/tracker-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-graph"
+        }
+      ]
+    },
+    {
       "moduleid": "tracker-web",
       "references": [
         {
