@@ -1,0 +1,8 @@
+{
+  "featureid": "operation-pkg",
+  "baselineid": "master",
+  "description": "Version operation and repository package in graph for the other tools graph",
+  "created": 1561384565,
+  "updated": 1561384565,
+  "status": "active"
+}
