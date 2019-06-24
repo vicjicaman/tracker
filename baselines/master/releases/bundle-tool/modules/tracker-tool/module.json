@@ -1,0 +1,20 @@
+{
+  "releaseid": "bundle-tool",
+  "moduleid": "tracker-tool",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/tracker-tool.git",
+  "publish": null,
+  "released": {
+    "commitid": "5e75a1e453e5b17f206d5e6c77cfaf8ebbd14b44",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Bundle script for the tracker ",
+  "dependencies": [],
+  "created": 1561384057,
+  "updated": 1561384057,
+  "status": "active"
+}

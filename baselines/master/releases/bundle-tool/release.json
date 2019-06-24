@@ -1,0 +1,10 @@
+{
+  "releaseid": "bundle-tool",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-tool"
+  ],
+  "created": 1561384057,
+  "updated": 1561384057,
+  "status": "active"
+}
