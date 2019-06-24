@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-container-server.git",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for UI server",
   "created": 1561408162,
   "updated": 1561408162,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4ba7f6c02c203c82237d3490bc11a41fee96a8ae",
+    "message": "Add cache invalidation for the node_modules step\n"
+  }
 }

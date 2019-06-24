@@ -14,7 +14,7 @@
   "updated": 1561396735,
   "status": "active",
   "commit": {
-    "commitid": "43cf2324425cb3777f85cb1abd11d91a6ef802d4",
-    "message": "Sync to latest version\n"
+    "commitid": "85a6eabbc7f59ac30b190e3c5df637ab860e75e7",
+    "message": "Add cache invalidation for the COPY node_modules command\n"
   }
 }
