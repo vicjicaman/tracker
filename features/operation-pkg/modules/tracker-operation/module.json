@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "fullname": "@nebulario/tracker-operation",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Library for long running operation control",
+  "created": 1561385296,
+  "updated": 1561385296,
+  "status": "active"
+}
