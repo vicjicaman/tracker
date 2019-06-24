@@ -21,6 +21,19 @@
           "path": "dependencies.@nebulario/tracker-server"
         }
       ]
+    },
+    {
+      "moduleid": "tracker-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+          "fullname": "@nebulario/tracker-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-server"
+        }
+      ]
     }
   ],
   "dependents": [
