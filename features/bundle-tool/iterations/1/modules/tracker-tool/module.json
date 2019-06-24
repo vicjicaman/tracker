@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-tool",
+  "mode": "prod",
+  "version": "1.70.0-bundle-tool-prod",
+  "fullname": "@nebulario/tracker-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/tracker-tool.git",
+  "publish": {
+    "commitid": "902c0402c1eeeb103d79d127b618be770a0eb518",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c47280c08061337bde9bea155d7e9d54f80e5735",
+    "message": "Local startup and install script\n"
+  },
+  "mergeback": {
+    "commitid": "5e75a1e453e5b17f206d5e6c77cfaf8ebbd14b44",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561330703,
+  "updated": 1561330703,
+  "status": "active"
+}

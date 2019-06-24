@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-tool"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-tool",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-tool-prod"
+    }
+  ],
+  "created": 1561330703,
+  "updated": 1561330703,
+  "status": "active"
+}

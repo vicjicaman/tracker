@@ -1,0 +1,40 @@
+{
+  "moduleid": "tracker-tool",
+  "releases": [
+    {
+      "releaseid": "bundle-tool"
+    }
+  ],
+  "created": 1561384397,
+  "updated": 1561384397,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "tracker-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+          "fullname": "@nebulario/tracker-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-graph"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+          "fullname": "@nebulario/tracker-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-server"
+        }
+      ]
+    }
+  ]
+}

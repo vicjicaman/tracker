@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the tracker GraphQL service",
+  "created": 1561294213,
+  "updated": 1561294213,
+  "status": "active",
+  "commit": {
+    "commitid": "cf6635800fe98499decc1074a89659bef98c1acb",
+    "message": "ITERATION:1\n"
+  }
+}
