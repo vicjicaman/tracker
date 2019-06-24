@@ -1,7 +1,7 @@
 {
   "moduleid": "tracker-operation",
   "type": "npm",
-  "url": "github.com:vicjicaman/tracker-events.git",
+  "url": "github.com:vicjicaman/tracker-operation.git",
   "fullname": "@nebulario/tracker-operation",
   "iteration": {
     "mode": "prod"
