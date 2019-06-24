@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-server.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for UI server",
+  "created": 1561408162,
+  "updated": 1561408162,
+  "status": "active",
+  "commit": {
+    "commitid": "4f25c6fdb439d890f6a162cdef6f0266f62ae30d",
+    "message": "ITERATION:1\n"
+  }
+}

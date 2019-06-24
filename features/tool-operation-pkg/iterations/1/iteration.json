@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-compose",
+    "tracker-tool",
+    "tracker-container-graph",
+    "tracker-container-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-compose",
+      "iterationid": 1,
+      "version": "1.70.0-tool-operation-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-tool",
+      "iterationid": 1,
+      "version": "1.70.0-tool-operation-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-container-graph",
+      "iterationid": 1,
+      "version": "1.70.0-tool-operation-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-container-server",
+      "iterationid": 1,
+      "version": "1.70.0-tool-operation-pkg-prod"
+    }
+  ],
+  "created": 1561408736,
+  "updated": 1561408736,
+  "status": "active"
+}

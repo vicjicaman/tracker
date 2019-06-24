@@ -2,6 +2,9 @@
   "moduleid": "tracker-container-graph",
   "releases": [
     {
+      "releaseid": "tool-operation-pkg"
+    },
+    {
       "releaseid": "container-setup"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
           "fullname": "@nebulario/tracker-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-graph"

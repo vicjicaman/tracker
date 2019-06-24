@@ -5,15 +5,38 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "85ce4a3a1f4d5167d54c3605fd2eb68cae7736f7",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "a0f291676bf38ac0cc8d1b79ec8e6c972744237a",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a4e4c20937e241fd34ac6d156ad269e125ae55e3",
+    "message": "RELEASE:tool-operation-pkg:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the tracker GraphQL service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+      "fullname": "@nebulario/tracker-graph",
+      "version": "1.70.1-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-graph"
+    }
+  ],
   "created": 1561414538,
   "updated": 1561414538,
   "status": "active"

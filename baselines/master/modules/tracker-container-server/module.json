@@ -2,6 +2,9 @@
   "moduleid": "tracker-container-server",
   "releases": [
     {
+      "releaseid": "tool-operation-pkg"
+    },
+    {
       "releaseid": "container-setup"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"

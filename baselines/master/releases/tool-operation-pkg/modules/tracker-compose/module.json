@@ -5,15 +5,38 @@
   "fullname": "tracker-compose",
   "type": "compose",
   "url": "github.com:vicjicaman/tracker-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7c8b9ae584799d1883887503f47d862a4fa6859d",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "76ae911d430a08ba810381d794b1aeaffeece298",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "20c3eeced55f4e0e4aa66be71c61b84c390b4d65",
+    "message": "RELEASE:tool-operation-pkg:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Compose script for the tracker",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    }
+  ],
   "created": 1561414538,
   "updated": 1561414538,
   "status": "active"
