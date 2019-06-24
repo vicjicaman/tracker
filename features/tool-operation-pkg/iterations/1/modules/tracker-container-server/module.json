@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b3beabc666302ed719630756224de8e0c3f0c6cf",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "4ba7f6c02c203c82237d3490bc11a41fee96a8ae",
     "message": "Add cache invalidation for the node_modules step\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4f25c6fdb439d890f6a162cdef6f0266f62ae30d",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561408737,
   "updated": 1561408737,

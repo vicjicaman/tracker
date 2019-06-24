@@ -5,12 +5,18 @@
   "fullname": "tracker-compose",
   "type": "compose",
   "url": "github.com:vicjicaman/tracker-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8e8492f2b8b6aa970fc726f4e9a28aa2a5ed956e",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "e197b2920363012e8690a1ec58dbfbd55ee8817b",
     "message": "RELEASE:container-setup:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "76ae911d430a08ba810381d794b1aeaffeece298",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561408737,
   "updated": 1561408737,

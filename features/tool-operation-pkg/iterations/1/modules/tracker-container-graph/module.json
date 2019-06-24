@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a8b98145cfc71189796d641660b0007df05d9257",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "85a6eabbc7f59ac30b190e3c5df637ab860e75e7",
     "message": "Add cache invalidation for the COPY node_modules command\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a0f291676bf38ac0cc8d1b79ec8e6c972744237a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561408737,
   "updated": 1561408737,

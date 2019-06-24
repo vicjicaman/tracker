@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-tool",
   "type": "bundle",
   "url": "github.com:vicjicaman/tracker-tool.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9abef1f8cd72cd6214139844ea0ec31671395ed9",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "681c5a8f92999c1e7129d88d0bc378326dcf5f29",
     "message": "Sync to latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ed1b44e87acc85b87cbe98439fd97e08f5763ccf",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561408737,
   "updated": 1561408737,
