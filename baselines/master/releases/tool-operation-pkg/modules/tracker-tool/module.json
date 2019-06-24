@@ -5,15 +5,46 @@
   "fullname": "@nebulario/tracker-tool",
   "type": "bundle",
   "url": "github.com:vicjicaman/tracker-tool.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5cbaf8f41af5f53e34a9c3065d1436f8034848fa",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "ed1b44e87acc85b87cbe98439fd97e08f5763ccf",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c7104c0b73a7c12b3d2e9d57395d6f351b651c95",
+    "message": "RELEASE:tool-operation-pkg:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Bundle script for the tracker ",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/tracker-tool",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+      "fullname": "@nebulario/tracker-graph",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-graph"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+      "fullname": "@nebulario/tracker-server",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-server"
+    }
+  ],
   "created": 1561414538,
   "updated": 1561414538,
   "status": "active"

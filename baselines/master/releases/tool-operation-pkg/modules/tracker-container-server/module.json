@@ -5,15 +5,38 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "55ef4c63649659df67f0756e890a2a73c57a14e5",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "4f25c6fdb439d890f6a162cdef6f0266f62ae30d",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ed95e46b0676bee9492188bd750595c1f39bed79",
+    "message": "RELEASE:tool-operation-pkg:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for UI server",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+      "fullname": "@nebulario/tracker-server",
+      "version": "1.70.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-server"
+    }
+  ],
   "created": 1561414538,
   "updated": 1561414538,
   "status": "active"

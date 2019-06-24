@@ -1,6 +1,6 @@
 {
   "releaseid": "tool-operation-pkg",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-compose",
     "tracker-tool",
