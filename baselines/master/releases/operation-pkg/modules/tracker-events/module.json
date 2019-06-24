@@ -1,0 +1,20 @@
+{
+  "releaseid": "operation-pkg",
+  "moduleid": "tracker-events",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "publish": null,
+  "released": {
+    "commitid": "d2fca802cdfbf073bbb5e7fb8be70538ea270cef",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Events route and communication",
+  "dependencies": [],
+  "created": 1561396080,
+  "updated": 1561396080,
+  "status": "active"
+}
