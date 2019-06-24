@@ -1,0 +1,8 @@
+{
+  "featureid": "tool-operation-pkg",
+  "baselineid": "master",
+  "description": "Release container and bundle for the individual packages",
+  "created": 1561396669,
+  "updated": 1561396669,
+  "status": "active"
+}
