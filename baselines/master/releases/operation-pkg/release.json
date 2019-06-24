@@ -1,0 +1,15 @@
+{
+  "releaseid": "operation-pkg",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-graph",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-events"
+  ],
+  "created": 1561396080,
+  "updated": 1561396080,
+  "status": "active"
+}

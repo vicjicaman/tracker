@@ -1,0 +1,20 @@
+{
+  "releaseid": "operation-pkg",
+  "moduleid": "tracker-operation",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-operation.git",
+  "publish": null,
+  "released": {
+    "commitid": "389d263a4345a6ba9c9115565d7b8a34d2787f01",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Library for long running operation control",
+  "dependencies": [],
+  "created": 1561396080,
+  "updated": 1561396080,
+  "status": "active"
+}

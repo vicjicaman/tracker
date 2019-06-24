@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "operation-pkg"
+    },
+    {
       "releaseid": "bundle-tool"
     },
     {
