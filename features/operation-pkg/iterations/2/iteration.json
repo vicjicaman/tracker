@@ -1,0 +1,47 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-graph",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-events"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-graph",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-git",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-operation",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-ping",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-stream",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "tracker-events",
+      "version": "1.70.1-operation-pkg-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1561393901,
+  "updated": 1561393901,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-operation",
+  "mode": "prod",
+  "version": "1.70.1-operation-pkg-prod",
+  "fullname": "@nebulario/tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7b82468b4dc80371c0b0f8802421dfee6b476ffd",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561393901,
+  "updated": 1561393901,
+  "status": "active"
+}
