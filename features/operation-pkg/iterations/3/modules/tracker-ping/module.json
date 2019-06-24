@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-ping",
+  "mode": "prod",
+  "version": "1.70.2-operation-pkg-prod",
+  "fullname": "@nebulario/tracker-ping",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-ping.git",
+  "publish": {
+    "commitid": "013b9c00dfc7c0e57261e8e191a8c55d6fd100c5",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "a8cb14d1a795ece4696517d894dff482e17c6670",
+    "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
+  },
+  "mergeback": {
+    "commitid": "0162938eb251c228473cf5ec893f2bcdb4cd8fe9",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561395098,
+  "updated": 1561395098,
+  "status": "active"
+}

@@ -1,6 +1,6 @@
 {
   "releaseid": "operation-pkg",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-graph",
     "tracker-git",

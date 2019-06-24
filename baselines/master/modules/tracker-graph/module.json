@@ -2,6 +2,9 @@
   "moduleid": "tracker-graph",
   "releases": [
     {
+      "releaseid": "operation-pkg"
+    },
+    {
       "releaseid": "graph-setup"
     }
   ],
@@ -73,6 +76,71 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-git",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-git",
+          "fullname": "@nebulario/tracker-git",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-git"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-events",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-events",
+          "fullname": "@nebulario/tracker-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-events"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-stream",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stream",
+          "fullname": "@nebulario/tracker-stream",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-stream"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-operation",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-operation",
+          "fullname": "@nebulario/tracker-operation",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-operation"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-ping",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-ping",
+          "fullname": "@nebulario/tracker-ping",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-ping"
         }
       ]
     }

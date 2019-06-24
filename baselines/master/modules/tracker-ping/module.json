@@ -1,0 +1,41 @@
+{
+  "moduleid": "tracker-ping",
+  "releases": [
+    {
+      "releaseid": "operation-pkg"
+    }
+  ],
+  "created": 1561396546,
+  "updated": 1561396546,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-ping",
+          "fullname": "@nebulario/tracker-ping",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-ping"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "tracker-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
+          "fullname": "@nebulario/tracker-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-process"
+        }
+      ]
+    }
+  ]
+}
