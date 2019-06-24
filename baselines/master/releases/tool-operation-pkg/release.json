@@ -1,0 +1,13 @@
+{
+  "releaseid": "tool-operation-pkg",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-compose",
+    "tracker-tool",
+    "tracker-container-graph",
+    "tracker-container-server"
+  ],
+  "created": 1561414538,
+  "updated": 1561414538,
+  "status": "active"
+}

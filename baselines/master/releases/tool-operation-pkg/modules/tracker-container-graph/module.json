@@ -1,0 +1,20 @@
+{
+  "releaseid": "tool-operation-pkg",
+  "moduleid": "tracker-container-graph",
+  "version": "1.70.1-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "a0f291676bf38ac0cc8d1b79ec8e6c972744237a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the tracker GraphQL service",
+  "dependencies": [],
+  "created": 1561414538,
+  "updated": 1561414538,
+  "status": "active"
+}
