@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-container-server",
+  "mode": "prod",
+  "version": "1.70.0-tool-operation-pkg-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4ba7f6c02c203c82237d3490bc11a41fee96a8ae",
+    "message": "Add cache invalidation for the node_modules step\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561408737,
+  "updated": 1561408737,
+  "status": "active"
+}

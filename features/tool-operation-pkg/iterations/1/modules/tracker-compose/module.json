@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-compose",
+  "mode": "prod",
+  "version": "1.70.0-tool-operation-pkg-prod",
+  "fullname": "tracker-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/tracker-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e197b2920363012e8690a1ec58dbfbd55ee8817b",
+    "message": "RELEASE:container-setup:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561408737,
+  "updated": 1561408737,
+  "status": "active"
+}

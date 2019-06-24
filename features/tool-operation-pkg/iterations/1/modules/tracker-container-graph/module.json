@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-tool-operation-pkg-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "85a6eabbc7f59ac30b190e3c5df637ab860e75e7",
+    "message": "Add cache invalidation for the COPY node_modules command\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561408737,
+  "updated": 1561408737,
+  "status": "active"
+}
