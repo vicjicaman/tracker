@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-events",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-events.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3cc66554b55be83a21c4581eb45e3776ad6a5ced",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "67635d9ca63161b4ef0ab548e5815ebe92297e31",
     "message": "Add yarn lock\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d2fca802cdfbf073bbb5e7fb8be70538ea270cef",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1561395098,
   "updated": 1561395098,

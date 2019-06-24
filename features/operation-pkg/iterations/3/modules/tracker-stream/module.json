@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stream",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stream.git",
-  "publish": null,
+  "publish": {
+    "commitid": "40bdcb71acdeb7f4fc7aba8e3e0ba6fe7b226ce5",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "a63c326c6fde4a044c0eee09cf61314f7a02f3f5",
     "message": "Separate api ready packages\nThe packages that are stable and used in more than one project are git, events, operations, ping and stream.\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "aaec914c7aa9b3c342e8ba40579ac023efc5c56e",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1561395098,
   "updated": 1561395098,
