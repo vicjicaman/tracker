@@ -1,0 +1,20 @@
+{
+  "releaseid": "tool-operation-pkg",
+  "moduleid": "tracker-compose",
+  "version": "1.70.1-master",
+  "fullname": "tracker-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/tracker-compose.git",
+  "publish": null,
+  "released": {
+    "commitid": "76ae911d430a08ba810381d794b1aeaffeece298",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Compose script for the tracker",
+  "dependencies": [],
+  "created": 1561414538,
+  "updated": 1561414538,
+  "status": "active"
+}
