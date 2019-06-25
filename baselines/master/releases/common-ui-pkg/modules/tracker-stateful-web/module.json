@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-ui-pkg",
+  "moduleid": "tracker-stateful-web",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "05cf2628b8169c73a717ca3a53220312f9370fff",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Functionality to render the web app",
+  "dependencies": [],
+  "created": 1561497403,
+  "updated": 1561497403,
+  "status": "active"
+}

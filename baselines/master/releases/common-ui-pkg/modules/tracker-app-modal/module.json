@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-ui-pkg",
+  "moduleid": "tracker-app-modal",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-app-modal",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-modal.git",
+  "publish": null,
+  "released": {
+    "commitid": "c12ffd12a65282335c8ff38705ba6a69f17b5bcf",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Modal component",
+  "dependencies": [],
+  "created": 1561497403,
+  "updated": 1561497403,
+  "status": "active"
+}
