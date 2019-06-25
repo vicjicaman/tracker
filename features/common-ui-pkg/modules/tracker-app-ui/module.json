@@ -14,7 +14,7 @@
   "updated": 1561490641,
   "status": "active",
   "commit": {
-    "commitid": "2f25bce7c1fa3224f6f0ffb2173907f9f64508e6",
-    "message": "Merge iteration changes\n"
+    "commitid": "a5b025eef4461175c6a8ce87193763f19a60a0b2",
+    "message": "Remove events library\n"
   }
 }
