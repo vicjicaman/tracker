@@ -2,6 +2,9 @@
   "moduleid": "tracker-stateful-web",
   "releases": [
     {
+      "releaseid": "common-ui-pkg"
+    },
+    {
       "releaseid": "common-render"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-web",
           "fullname": "@nebulario/tracker-stateful-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-web"
@@ -23,5 +26,19 @@
       ]
     }
   ],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "tracker-app-events",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+          "fullname": "@nebulario/tracker-app-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-events"
+        }
+      ]
+    }
+  ]
 }
