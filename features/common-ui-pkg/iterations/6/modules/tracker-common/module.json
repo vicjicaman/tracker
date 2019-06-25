@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-common",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9c3fa4a1f4cca7e8082e69a9d8b9bdd4aab1975c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "cae81d15cae366af46257e2daedc85b54907a9d8",
     "message": "Separate form, modal, and stream packages\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8bf387972c863a542e26914880011468302aaef7",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1561494795,
   "updated": 1561494795,

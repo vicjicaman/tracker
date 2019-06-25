@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-stream",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-stream.git",
-  "publish": null,
+  "publish": {
+    "commitid": "921f72aa5521057b269de46afe4b20cfbeb77375",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "d34763f47f9084481555e1dfaad5078e680488e8",
     "message": "Separate form, modal, and stream packages\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "df45c433e672275402e8c7ccf337d948475c54d8",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1561494796,
   "updated": 1561494796,

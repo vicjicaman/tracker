@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-form",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-form.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a06b4ec5d69a7b1c0af73a90d6531758bd384219",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "71158ac93cc65c61edf5d888eb6a1aba665ee3c9",
     "message": "Separate form, modal, and stream packages\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "dea27721ab0729efe70e024abb354f856f00a0f2",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1561494795,
   "updated": 1561494795,
