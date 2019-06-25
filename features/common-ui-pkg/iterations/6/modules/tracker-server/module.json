@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-server",
+  "mode": "prod",
+  "version": "1.70.5-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "dde467e7f3681b62cc208d1a514a14b1dcb387fc",
+    "message": "Separate the ui common components\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1561494795,
+  "updated": 1561494795,
+  "status": "active"
+}
