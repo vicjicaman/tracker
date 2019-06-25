@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-app-ui",
+  "mode": "prod",
+  "version": "1.70.2-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-app-ui",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-ui.git",
+  "publish": {
+    "commitid": "19cffe88a997c674b7f8a310040c5d5c5ac6d5c6",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "a5b025eef4461175c6a8ce87193763f19a60a0b2",
+    "message": "Remove events library\n"
+  },
+  "mergeback": {
+    "commitid": "437243765b7cae5c5e76f138ad805f1fe8319962",
+    "message": "ITERATION:6\n"
+  },
+  "releasedOn": 6,
+  "created": 1561494796,
+  "updated": 1561494796,
+  "status": "active"
+}

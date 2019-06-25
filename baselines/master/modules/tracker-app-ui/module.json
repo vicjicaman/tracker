@@ -1,0 +1,40 @@
+{
+  "moduleid": "tracker-app-ui",
+  "releases": [
+    {
+      "releaseid": "common-ui-pkg"
+    }
+  ],
+  "created": 1561498567,
+  "updated": 1561498567,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-app-stream",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
+          "fullname": "@nebulario/tracker-app-ui",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-ui"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
+          "fullname": "@nebulario/tracker-app-ui",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-ui"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

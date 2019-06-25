@@ -2,6 +2,9 @@
   "moduleid": "tracker-server",
   "releases": [
     {
+      "releaseid": "common-ui-pkg"
+    },
+    {
       "releaseid": "web-setup"
     }
   ],
@@ -69,7 +72,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
           "fullname": "@nebulario/tracker-stateful-server",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-server"
@@ -147,7 +150,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -160,7 +163,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-web",
           "fullname": "@nebulario/tracker-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-web"

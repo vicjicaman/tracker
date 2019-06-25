@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-app-stream",
+  "mode": "prod",
+  "version": "1.70.0-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-app-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-stream.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d34763f47f9084481555e1dfaad5078e680488e8",
+    "message": "Separate form, modal, and stream packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1561493218,
+  "updated": 1561493218,
+  "status": "active"
+}

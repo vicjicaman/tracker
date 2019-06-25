@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-web",
+  "mode": "dev",
+  "version": "1.70.0-common-ui-pkg-dev",
+  "fullname": "@nebulario/tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0b2eeb50150ec4208f40ca46768e8a48796d8bdd",
+    "message": "Separate events package\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561480699,
+  "updated": 1561480699,
+  "status": "active"
+}

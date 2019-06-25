@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-common",
+  "mode": "dev",
+  "version": "1.70.1-common-ui-pkg-dev",
+  "fullname": "@nebulario/tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "251612edd554450107d65877ac052b157b73c898",
+    "message": "Separate events package\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1561486582,
+  "updated": 1561486582,
+  "status": "active"
+}
