@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-ui.git",
   "fullname": "@nebulario/tracker-app-ui",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "UI common components",
   "created": 1561490641,
   "updated": 1561490641,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5945a27ff80bde0f267f423319bc18a24e31b8c1",
+    "message": "Separate the ui common components\n"
+  }
 }

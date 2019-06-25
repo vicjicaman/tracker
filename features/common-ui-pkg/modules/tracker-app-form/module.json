@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-form",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-form.git",
+  "fullname": "@nebulario/tracker-app-form",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Form component, action and reducers",
+  "created": 1561491579,
+  "updated": 1561491579,
+  "status": "active",
+  "commit": {
+    "commitid": "71158ac93cc65c61edf5d888eb6a1aba665ee3c9",
+    "message": "Separate form, modal, and stream packages\n"
+  }
+}

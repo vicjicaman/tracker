@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-events.git",
   "fullname": "@nebulario/tracker-app-events",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1561475301,
   "status": "active",
   "commit": {
-    "commitid": "95283452b189e1ad36a3a269c76850d0e2323b13",
-    "message": "ITERATION:1\n"
+    "commitid": "b109af728a2b05810d411442f4be84d392d46570",
+    "message": "ITERATION:3\n"
   }
 }

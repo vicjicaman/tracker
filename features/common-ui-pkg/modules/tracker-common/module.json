@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-common.git",
   "fullname": "@nebulario/tracker-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1561475208,
   "status": "active",
   "commit": {
-    "commitid": "6e792e5601cca6864c6f1c3be5d806b21aca6236",
-    "message": "ITERATION:2\n"
+    "commitid": "cae81d15cae366af46257e2daedc85b54907a9d8",
+    "message": "Separate form, modal, and stream packages\n"
   }
 }

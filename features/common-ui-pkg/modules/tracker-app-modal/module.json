@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-modal.git",
   "fullname": "@nebulario/tracker-app-modal",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Modal component",
   "created": 1561491457,
   "updated": 1561491457,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a28c5ddfb435c3a4909b69b1c5c3a5e08c6b8388",
+    "message": "Separate form, modal, and stream packages\n"
+  }
 }

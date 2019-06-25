@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stateful-web.git",
   "fullname": "@nebulario/tracker-stateful-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1561475173,
   "status": "active",
   "commit": {
-    "commitid": "afe724582d40a3ded64822f593ea50b6208d7083",
-    "message": "ITERATION:1\n"
+    "commitid": "dfc32fb72af4a6634c4f3b3c3de95f4f0157d779",
+    "message": "ITERATION:3\n"
   }
 }
