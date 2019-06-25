@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-app-modal",
+  "mode": "prod",
+  "version": "1.70.0-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-app-modal",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-modal.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a28c5ddfb435c3a4909b69b1c5c3a5e08c6b8388",
+    "message": "Separate form, modal, and stream packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1561493218,
+  "updated": 1561493218,
+  "status": "active"
+}
