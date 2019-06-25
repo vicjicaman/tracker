@@ -1,0 +1,8 @@
+{
+  "featureid": "common-ui",
+  "baselineid": "master",
+  "description": "Separate the packages that are ready to have a separate library",
+  "created": 1561453233,
+  "updated": 1561453233,
+  "status": "active"
+}
