@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-common",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "82d14336d470e3a779d0a3a8d357abb8a7d3da87",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "6e792e5601cca6864c6f1c3be5d806b21aca6236",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2dfc78496fcc5de3ee6efcbdcecd068d476a568e",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1561489507,
   "updated": 1561489507,

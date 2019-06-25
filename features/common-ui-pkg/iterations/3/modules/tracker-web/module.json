@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-web",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "03b2924f4012e0bd8793d0898900fabb6aab6244",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "0b2eeb50150ec4208f40ca46768e8a48796d8bdd",
     "message": "Separate events package\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "925380edf12d3dec9c11e089b5fbff3e1c8e08ea",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1561489507,
   "updated": 1561489507,
