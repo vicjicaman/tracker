@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-ui-pkg",
+  "moduleid": "tracker-web",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "7f6a32302c43bf1566d965bc1b5cf4a49caffc55",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Web deliverable for the UI",
+  "dependencies": [],
+  "created": 1561497403,
+  "updated": 1561497403,
+  "status": "active"
+}

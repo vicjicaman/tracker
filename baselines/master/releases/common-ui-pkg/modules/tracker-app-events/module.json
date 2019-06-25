@@ -1,0 +1,20 @@
+{
+  "releaseid": "common-ui-pkg",
+  "moduleid": "tracker-app-events",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/tracker-app-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-events.git",
+  "publish": null,
+  "released": {
+    "commitid": "d018cf3f8560c082abfebc4213edccdfc98426fd",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Events provider, state, reducers and handler",
+  "dependencies": [],
+  "created": 1561497403,
+  "updated": 1561497403,
+  "status": "active"
+}
