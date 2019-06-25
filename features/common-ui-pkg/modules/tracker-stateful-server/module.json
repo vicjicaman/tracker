@@ -12,5 +12,9 @@
   "description": "Server side render configuration of cache and reducers",
   "created": 1561479094,
   "updated": 1561479094,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e97c152ec785588833e4f02c700b42d33b2e9da1",
+    "message": "RELEASE:web-setup:1.70.1-master\n"
+  }
 }

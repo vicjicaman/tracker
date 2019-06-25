@@ -12,5 +12,9 @@
   "description": "Common code for the UI",
   "created": 1561475208,
   "updated": 1561475208,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "251612edd554450107d65877ac052b157b73c898",
+    "message": "Separate events package\n"
+  }
 }

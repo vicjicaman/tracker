@@ -12,5 +12,9 @@
   "description": "Server for UI SSR",
   "created": 1561475153,
   "updated": 1561475153,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "779e836d45b19984d6cae4043eb1f5796a80aeec",
+    "message": "Separate events package\n"
+  }
 }

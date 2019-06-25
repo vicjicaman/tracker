@@ -12,5 +12,9 @@
   "description": "Events provider, state, reducers and handler",
   "created": 1561475301,
   "updated": 1561475301,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "73f65b3f3f866f63c4608ed9e7b27bbabf5a695d",
+    "message": "Separate events package\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Web deliverable for the UI",
   "created": 1561475165,
   "updated": 1561475165,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0b2eeb50150ec4208f40ca46768e8a48796d8bdd",
+    "message": "Separate events package\n"
+  }
 }
