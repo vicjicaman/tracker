@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-app-query",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-query.git",
+  "fullname": "@nebulario/tracker-app-query",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Query package",
+  "created": 1561559822,
+  "updated": 1561559822,
+  "status": "active"
+}
