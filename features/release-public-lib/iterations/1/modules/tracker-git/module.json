@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-git",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-git.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a3b59ec7d9edb67fc82cf10ec229d1c714d401ad",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "e4780d1131d383ce712c44e1f549c6156e880196",
     "message": "RELEASE:operation-pkg:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9d372bec01a76e6f0db55c050e148546e96fa46f",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561566341,
   "updated": 1561566341,

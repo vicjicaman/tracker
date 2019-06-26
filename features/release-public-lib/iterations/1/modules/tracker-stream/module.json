@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stream",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stream.git",
-  "publish": null,
+  "publish": {
+    "commitid": "cc40cf575165e26c19cdbee5b7baf3cbc93561b4",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "af73536dbadb668730dba5fa92ae7abf49bd83dc",
     "message": "RELEASE:operation-pkg:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a8076e8f4524f41ed7cbcb33728febe6722dc966",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561566341,
   "updated": 1561566341,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-ui",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-ui.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b54302b3076ef82b8709b0bec18dbfe1802f2062",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "14130773e0b7b356557c5936e3491e126dfd9a60",
     "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fb03a15732e6619b9cc6594b36946302fd340202",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561566341,
   "updated": 1561566341,
