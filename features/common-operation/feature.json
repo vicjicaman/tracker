@@ -1,0 +1,8 @@
+{
+  "featureid": "common-operation",
+  "baselineid": "master",
+  "description": "Separate the query and operation package",
+  "created": 1561559639,
+  "updated": 1561559639,
+  "status": "active"
+}
