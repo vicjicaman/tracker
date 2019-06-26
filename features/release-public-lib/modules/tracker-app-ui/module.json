@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-ui.git",
   "fullname": "@nebulario/tracker-app-ui",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "UI common components",
   "created": 1561565504,
   "updated": 1561565504,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "14130773e0b7b356557c5936e3491e126dfd9a60",
+    "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
+  }
 }

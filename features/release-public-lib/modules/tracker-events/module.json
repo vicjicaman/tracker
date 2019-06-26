@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-events.git",
   "fullname": "@nebulario/tracker-events",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Events route and communication",
   "created": 1561565480,
   "updated": 1561565480,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "14fd954e9a2d72ecf5d80f9539ffdc3cf12cb435",
+    "message": "RELEASE:operation-pkg:1.70.0-master\n"
+  }
 }

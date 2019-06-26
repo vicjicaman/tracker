@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-node.git",
   "fullname": "@nebulario/tracker-node",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "General config for a server node",
   "created": 1561565495,
   "updated": 1561565495,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d713b6e4269e6e1ffa9227bf0a964f7d1f52374e",
+    "message": "RELEASE:server-core:1.70.0-master\n"
+  }
 }
