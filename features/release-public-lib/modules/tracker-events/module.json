@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "fullname": "@nebulario/tracker-events",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Events route and communication",
+  "created": 1561565480,
+  "updated": 1561565480,
+  "status": "active"
+}
