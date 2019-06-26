@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-layout.git",
   "fullname": "@nebulario/tracker-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Layout componet",
   "created": 1561569730,
   "updated": 1561569730,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "88d4b963979d0264c538f64830a8a13363b2aba8",
+    "message": "RELEASE:ui-libs:1.70.0-master\n"
+  }
 }

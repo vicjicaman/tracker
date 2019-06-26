@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-stream.git",
   "fullname": "@nebulario/tracker-app-stream",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Stream component",
   "created": 1561569696,
   "updated": 1561569696,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "befa37bdf31e04653a4cf866fc166b5f358819a2",
+    "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
+  }
 }

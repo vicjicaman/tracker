@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-notify.git",
   "fullname": "@nebulario/tracker-notify",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Notification package",
   "created": 1561569716,
   "updated": 1561569716,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c2825641a3254f92d592b09a1b55fa1e5a27f388",
+    "message": "RELEASE:ui-libs:1.70.0-master\n"
+  }
 }

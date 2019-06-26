@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-operation.git",
   "fullname": "@nebulario/tracker-operation",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Library for long running operation control",
   "created": 1561569689,
   "updated": 1561569689,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bf3331db2893b7cb6ae7f153e4d9c3aef3e72294",
+    "message": "RELEASE:operation-pkg:1.70.0-master\n"
+  }
 }
