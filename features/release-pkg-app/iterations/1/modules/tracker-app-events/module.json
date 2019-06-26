@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-events",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-events.git",
-  "publish": null,
+  "publish": {
+    "commitid": "eeefc0e8529e9b3010b9d8554554a7b1351f88a4",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "4f5926ffa2e988e8ebd628b7b53cbb95337cc443",
     "message": "RELEASE:release-public-lib:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4e2846d0f6288e81446ddd3541a8245777e62566",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561570494,
   "updated": 1561570494,
