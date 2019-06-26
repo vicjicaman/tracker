@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-operation",
+  "mode": "prod",
+  "version": "1.70.0-release-pkg-app-prod",
+  "fullname": "@nebulario/tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-operation.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bf3331db2893b7cb6ae7f153e4d9c3aef3e72294",
+    "message": "RELEASE:operation-pkg:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561570494,
+  "updated": 1561570494,
+  "status": "active"
+}
