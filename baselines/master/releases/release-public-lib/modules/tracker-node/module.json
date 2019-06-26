@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-lib",
+  "moduleid": "tracker-node",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-node.git",
+  "publish": null,
+  "released": {
+    "commitid": "fb1920f775eba72580a22f9b6528240285d985d4",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "General config for a server node",
+  "dependencies": [],
+  "created": 1561568726,
+  "updated": 1561568726,
+  "status": "active"
+}

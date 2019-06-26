@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-lib",
+  "moduleid": "tracker-git",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-git",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-git.git",
+  "publish": null,
+  "released": {
+    "commitid": "9d372bec01a76e6f0db55c050e148546e96fa46f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Git API for common operations",
+  "dependencies": [],
+  "created": 1561568726,
+  "updated": 1561568726,
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "releaseid": "release-public-lib",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-git",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-app-ui",
+    "tracker-events",
+    "tracker-node",
+    "tracker-app-events",
+    "tracker-process"
+  ],
+  "created": 1561568726,
+  "updated": 1561568726,
+  "status": "active"
+}
