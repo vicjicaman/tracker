@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-container",
+  "baselineid": "master",
+  "description": "Release bundle, container and compose",
+  "created": 1561565365,
+  "updated": 1561565365,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-lib",
+  "baselineid": "master",
+  "description": "Release public package libraries",
+  "created": 1561565283,
+  "updated": 1561565283,
+  "status": "active"
+}
