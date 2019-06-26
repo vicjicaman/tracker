@@ -2,6 +2,9 @@
   "moduleid": "tracker-app-events",
   "releases": [
     {
+      "releaseid": "release-public-lib"
+    },
+    {
       "releaseid": "common-ui-pkg"
     }
   ],

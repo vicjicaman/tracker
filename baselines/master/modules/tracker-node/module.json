@@ -2,6 +2,9 @@
   "moduleid": "tracker-node",
   "releases": [
     {
+      "releaseid": "release-public-lib"
+    },
+    {
       "releaseid": "server-core"
     }
   ],

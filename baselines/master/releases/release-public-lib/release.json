@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-lib",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-git",
     "tracker-ping",
