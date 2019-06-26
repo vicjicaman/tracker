@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-git",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-app-ui",
+    "tracker-events",
+    "tracker-node",
+    "tracker-app-events",
+    "tracker-process"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-git",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-ping",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-stream",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-app-ui",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-events",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-node",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-app-events",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    },
+    {
+      "moduleid": "tracker-process",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-lib-prod"
+    }
+  ],
+  "created": 1561566341,
+  "updated": 1561566341,
+  "status": "active"
+}

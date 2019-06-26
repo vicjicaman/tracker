@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-process",
+  "mode": "prod",
+  "version": "1.70.0-release-public-lib-prod",
+  "fullname": "@nebulario/tracker-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-process.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7dfd9f8ea4ec31da7eccfe650233cc7866204806",
+    "message": "RELEASE:server-core:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561566341,
+  "updated": 1561566341,
+  "status": "active"
+}

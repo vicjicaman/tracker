@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-stream",
+  "mode": "prod",
+  "version": "1.70.0-release-public-lib-prod",
+  "fullname": "@nebulario/tracker-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stream.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "af73536dbadb668730dba5fa92ae7abf49bd83dc",
+    "message": "RELEASE:operation-pkg:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561566341,
+  "updated": 1561566341,
+  "status": "active"
+}
