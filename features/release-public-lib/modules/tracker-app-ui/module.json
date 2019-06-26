@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-ui",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-ui.git",
+  "fullname": "@nebulario/tracker-app-ui",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "UI common components",
+  "created": 1561565504,
+  "updated": 1561565504,
+  "status": "active",
+  "commit": {
+    "commitid": "fb03a15732e6619b9cc6594b36946302fd340202",
+    "message": "ITERATION:1\n"
+  }
+}

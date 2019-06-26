@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-process.git",
+  "fullname": "@nebulario/tracker-process",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Process and async utilities",
+  "created": 1561565462,
+  "updated": 1561565462,
+  "status": "active",
+  "commit": {
+    "commitid": "c4af1637a8747dd625df56f70eb76a53e0f2b568",
+    "message": "ITERATION:1\n"
+  }
+}
