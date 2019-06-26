@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-lib",
+  "moduleid": "tracker-app-ui",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-app-ui",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-ui.git",
+  "publish": null,
+  "released": {
+    "commitid": "fb03a15732e6619b9cc6594b36946302fd340202",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "UI common components",
+  "dependencies": [],
+  "created": 1561568726,
+  "updated": 1561568726,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-lib",
+  "moduleid": "tracker-ping",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-ping",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-ping.git",
+  "publish": null,
+  "released": {
+    "commitid": "3068de9685984170c3ba22b3320015e74405d03d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Ping functionality, update and state",
+  "dependencies": [],
+  "created": 1561568726,
+  "updated": 1561568726,
+  "status": "active"
+}
