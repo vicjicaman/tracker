@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-stateful-server",
+  "mode": "prod",
+  "version": "1.70.5-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "publish": {
+    "commitid": "cab3073510f7a694a20cc2179c30062afd8e8670",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "8666f6bee249d75c96348c5bc7b397b2c6af07a4",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": {
+    "commitid": "94b8626529c58ba41cbc144bb5aeb7800d5bb6e0",
+    "message": "ITERATION:6\n"
+  },
+  "releasedOn": 6,
+  "created": 1561494795,
+  "updated": 1561494795,
+  "status": "active"
+}

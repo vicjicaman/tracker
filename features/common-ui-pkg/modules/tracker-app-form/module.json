@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-form",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-form.git",
+  "fullname": "@nebulario/tracker-app-form",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Form component, action and reducers",
+  "created": 1561491579,
+  "updated": 1561491579,
+  "status": "active",
+  "commit": {
+    "commitid": "dea27721ab0729efe70e024abb354f856f00a0f2",
+    "message": "ITERATION:6\n"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-web",
+  "mode": "prod",
+  "version": "1.70.3-common-ui-pkg-prod",
+  "fullname": "@nebulario/tracker-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "112c636f7db8304db9fcd34025cea21f94772539",
+    "message": "Separate the ui common components\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1561493218,
+  "updated": 1561493218,
+  "status": "active"
+}

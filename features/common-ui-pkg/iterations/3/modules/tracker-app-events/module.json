@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-app-events",
+  "mode": "dev",
+  "version": "1.70.2-common-ui-pkg-dev",
+  "fullname": "@nebulario/tracker-app-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-events.git",
+  "publish": {
+    "commitid": "513ebbaf4ff6f6992d6a9d26093ccbee0d57106e",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "95283452b189e1ad36a3a269c76850d0e2323b13",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "b109af728a2b05810d411442f4be84d392d46570",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561489507,
+  "updated": 1561489507,
+  "status": "active"
+}

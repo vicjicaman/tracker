@@ -1,0 +1,53 @@
+{
+  "moduleid": "tracker-app-events",
+  "releases": [
+    {
+      "releaseid": "common-ui-pkg"
+    }
+  ],
+  "created": 1561498567,
+  "updated": 1561498567,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-app-stream",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+          "fullname": "@nebulario/tracker-app-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-events"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+          "fullname": "@nebulario/tracker-app-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-events"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+          "fullname": "@nebulario/tracker-app-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-events"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

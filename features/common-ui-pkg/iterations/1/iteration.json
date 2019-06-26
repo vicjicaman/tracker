@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-stateful-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-stateful-web",
+    "tracker-app-events"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    },
+    {
+      "moduleid": "tracker-web",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    },
+    {
+      "moduleid": "tracker-common",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    },
+    {
+      "moduleid": "tracker-app-events",
+      "iterationid": 1,
+      "version": "1.70.0-common-ui-pkg-dev"
+    }
+  ],
+  "created": 1561480699,
+  "updated": 1561480699,
+  "status": "active"
+}

@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "common-ui-pkg"
+    },
+    {
       "releaseid": "tool-operation-pkg"
     },
     {
@@ -34,30 +37,35 @@
     }
   ],
   "hierarchy": [
-    "tracker-tool",
     "tracker-compose",
+    "tracker-tool",
     "tracker-container-graph",
     "tracker-container-server",
     "tracker-server",
     "tracker-web",
     "tracker-stateful-server",
-    "tracker-dll-utils",
-    "tracker-dll-vendor",
-    "tracker-common",
-    "tracker-stateful-web",
     "tracker-dll-apollo",
     "tracker-dll-react",
     "tracker-dll-redux",
-    "tracker-layout",
-    "tracker-lang",
+    "tracker-common",
+    "tracker-dll-vendor",
+    "tracker-stateful-web",
+    "tracker-dll-utils",
+    "tracker-app-form",
     "tracker-graph",
+    "tracker-lang",
+    "tracker-layout",
     "tracker-notify",
-    "tracker-ping",
+    "tracker-app-modal",
+    "tracker-app-stream",
     "tracker-operation",
-    "tracker-git",
+    "tracker-ping",
     "tracker-stream",
+    "tracker-app-ui",
     "tracker-node",
+    "tracker-git",
     "tracker-events",
+    "tracker-app-events",
     "tracker-process"
   ],
   "created": 1561136093,

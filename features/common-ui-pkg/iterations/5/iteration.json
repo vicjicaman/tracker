@@ -1,0 +1,71 @@
+{
+  "iterationid": 5,
+  "phase": "invalid",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-stateful-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-stateful-web",
+    "tracker-app-form",
+    "tracker-app-modal",
+    "tracker-app-stream",
+    "tracker-app-ui",
+    "tracker-app-events"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-web",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-common",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-app-events",
+      "version": "1.70.4-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-app-form",
+      "version": "1.70.1-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-app-modal",
+      "version": "1.70.1-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-app-stream",
+      "version": "1.70.1-common-ui-pkg-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "tracker-app-ui",
+      "version": "1.70.1-common-ui-pkg-prod",
+      "iterationid": 5
+    }
+  ],
+  "created": 1561494112,
+  "updated": 1561494112,
+  "status": "active"
+}

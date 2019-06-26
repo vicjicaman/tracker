@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-server",
+  "mode": "dev",
+  "version": "1.70.2-common-ui-pkg-dev",
+  "fullname": "@nebulario/tracker-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-server.git",
+  "publish": {
+    "commitid": "1eb9ac587bc78db0d029d81c39395cd18b11461d",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "779e836d45b19984d6cae4043eb1f5796a80aeec",
+    "message": "Separate events package\n"
+  },
+  "mergeback": {
+    "commitid": "0a0d46343d4db9dd1551a0414f2d8f314089f629",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1561489506,
+  "updated": 1561489506,
+  "status": "active"
+}

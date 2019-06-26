@@ -1,0 +1,19 @@
+{
+  "releaseid": "common-ui-pkg",
+  "phase": "released",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-stateful-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-stateful-web",
+    "tracker-app-form",
+    "tracker-app-modal",
+    "tracker-app-stream",
+    "tracker-app-ui",
+    "tracker-app-events"
+  ],
+  "created": 1561497402,
+  "updated": 1561497402,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "common-ui-pkg",
+  "baselineid": "master",
+  "description": "Separate common packages for release",
+  "created": 1561475100,
+  "updated": 1561475100,
+  "status": "active"
+}

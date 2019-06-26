@@ -2,6 +2,9 @@
   "moduleid": "tracker-stateful-server",
   "releases": [
     {
+      "releaseid": "common-ui-pkg"
+    },
+    {
       "releaseid": "web-setup"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
           "fullname": "@nebulario/tracker-stateful-server",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-server"

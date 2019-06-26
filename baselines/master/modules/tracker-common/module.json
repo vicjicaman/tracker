@@ -2,6 +2,9 @@
   "moduleid": "tracker-common",
   "releases": [
     {
+      "releaseid": "common-ui-pkg"
+    },
+    {
       "releaseid": "web-setup"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -28,7 +31,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -73,6 +76,71 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-notify"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-app-events",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+          "fullname": "@nebulario/tracker-app-events",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-events"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-app-ui",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
+          "fullname": "@nebulario/tracker-app-ui",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-ui"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-app-modal",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-modal",
+          "fullname": "@nebulario/tracker-app-modal",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-modal"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-app-form",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-form",
+          "fullname": "@nebulario/tracker-app-form",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-form"
+        }
+      ]
+    },
+    {
+      "moduleid": "tracker-app-stream",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-stream",
+          "fullname": "@nebulario/tracker-app-stream",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-stream"
         }
       ]
     }

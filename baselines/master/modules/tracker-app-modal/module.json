@@ -1,0 +1,27 @@
+{
+  "moduleid": "tracker-app-modal",
+  "releases": [
+    {
+      "releaseid": "common-ui-pkg"
+    }
+  ],
+  "created": 1561498566,
+  "updated": 1561498566,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "tracker-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-modal",
+          "fullname": "@nebulario/tracker-app-modal",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/tracker-app-modal"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}
