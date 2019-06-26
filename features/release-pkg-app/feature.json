@@ -1,0 +1,8 @@
+{
+  "featureid": "release-pkg-app",
+  "baselineid": "master",
+  "description": "Release app related packages",
+  "created": 1561569500,
+  "updated": 1561569500,
+  "status": "active"
+}
