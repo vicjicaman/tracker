@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-pkg-app",
+  "moduleid": "tracker-app-form",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-app-form",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-form.git",
+  "publish": null,
+  "released": {
+    "commitid": "9bdbc7238b7edec6aea71dd4a8f8fa54c0bd8baa",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Form component, action and reducers",
+  "dependencies": [],
+  "created": 1561672150,
+  "updated": 1561672150,
+  "status": "active"
+}
