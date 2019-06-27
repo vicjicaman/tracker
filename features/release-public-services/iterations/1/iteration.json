@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-services-prod"
+    },
+    {
+      "moduleid": "tracker-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-services-prod"
+    },
+    {
+      "moduleid": "tracker-common",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-services-prod"
+    },
+    {
+      "moduleid": "tracker-graph",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-services-prod"
+    }
+  ],
+  "created": 1561646107,
+  "updated": 1561646107,
+  "status": "active"
+}
