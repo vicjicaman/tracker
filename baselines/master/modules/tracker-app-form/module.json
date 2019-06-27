@@ -18,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-form",
           "fullname": "@nebulario/tracker-app-form",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-form"

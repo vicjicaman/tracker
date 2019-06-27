@@ -2,6 +2,9 @@
   "moduleid": "tracker-server",
   "releases": [
     {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-services"
     },
     {
@@ -49,7 +52,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-node",
           "fullname": "@nebulario/tracker-node",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-node"
@@ -62,7 +65,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
           "fullname": "@nebulario/tracker-process",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-process"
@@ -75,7 +78,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
           "fullname": "@nebulario/tracker-stateful-server",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-server"
@@ -88,7 +91,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-apollo",
           "fullname": "@nebulario/tracker-dll-apollo",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-apollo"
@@ -101,7 +104,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-react",
           "fullname": "@nebulario/tracker-dll-react",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-react"
@@ -114,7 +117,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-redux",
           "fullname": "@nebulario/tracker-dll-redux",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-redux"
@@ -127,7 +130,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-utils",
           "fullname": "@nebulario/tracker-dll-utils",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-utils"
@@ -140,7 +143,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-vendor",
           "fullname": "@nebulario/tracker-dll-vendor",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-vendor"
@@ -153,7 +156,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -166,7 +169,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-web",
           "fullname": "@nebulario/tracker-web",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-web"
