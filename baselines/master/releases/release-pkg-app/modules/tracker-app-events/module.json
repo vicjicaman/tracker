@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-pkg-app",
+  "moduleid": "tracker-app-events",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-app-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-events.git",
+  "publish": null,
+  "released": {
+    "commitid": "4e2846d0f6288e81446ddd3541a8245777e62566",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Events provider, state, reducers and handler",
+  "dependencies": [],
+  "created": 1561637564,
+  "updated": 1561637564,
+  "status": "active"
+}

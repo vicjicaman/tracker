@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-pkg-app",
+  "moduleid": "tracker-notify",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-notify.git",
+  "publish": null,
+  "released": {
+    "commitid": "13577dbc24ee8ad17c9d934c3f56c236d127ff12",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Notification package",
+  "dependencies": [],
+  "created": 1561637564,
+  "updated": 1561637564,
+  "status": "active"
+}
