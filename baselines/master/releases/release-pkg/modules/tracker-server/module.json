@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-pkg",
+  "moduleid": "tracker-server",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/tracker-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "1edee6886079dd950b0186f1f1af47eb7d48681f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Server for UI SSR",
+  "dependencies": [],
+  "created": 1561653878,
+  "updated": 1561653878,
+  "status": "active"
+}
