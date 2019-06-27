@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-stateful-web",
+  "mode": "prod",
+  "version": "1.70.0-release-public-dll-prod",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e1cd071938b9100375cedd56646cdf34a389e5ec",
+    "message": "RELEASE:common-ui-pkg:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561642058,
+  "updated": 1561642058,
+  "status": "active"
+}

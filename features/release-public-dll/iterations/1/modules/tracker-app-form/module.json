@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-app-form",
+  "mode": "prod",
+  "version": "1.70.0-release-public-dll-prod",
+  "fullname": "@nebulario/tracker-app-form",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-form.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b466ec33f3b2ca00684f6522562310b8e556ae86",
+    "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561642058,
+  "updated": 1561642058,
+  "status": "active"
+}

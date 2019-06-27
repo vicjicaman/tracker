@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-dll-react",
+  "mode": "prod",
+  "version": "1.70.0-release-public-dll-prod",
+  "fullname": "@nebulario/tracker-dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-react.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e3fdc483ec142a90cc9b09be055fc81701a63b09",
+    "message": "RELEASE:initial-dll:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561642058,
+  "updated": 1561642058,
+  "status": "active"
+}
