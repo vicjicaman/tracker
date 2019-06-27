@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-graph",
+  "mode": "prod",
+  "version": "1.70.0-release-public-services-prod",
+  "fullname": "@nebulario/tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "publish": {
+    "commitid": "1c049e8777b82c1c285dd6a55ae376e50ab46b10",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "d0d614fa62c89cfe7f3b8bc3b33278332c5c6eca",
+    "message": "RELEASE:operation-pkg:1.70.1-master\n"
+  },
+  "mergeback": {
+    "commitid": "8f8145a3834e03e4347cb7230b19b3bd83dfb9f6",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561646107,
+  "updated": 1561646107,
+  "status": "active"
+}

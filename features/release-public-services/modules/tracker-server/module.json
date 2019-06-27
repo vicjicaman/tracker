@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-server.git",
+  "fullname": "@nebulario/tracker-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Server for UI SSR",
+  "created": 1561645865,
+  "updated": 1561645865,
+  "status": "active",
+  "commit": {
+    "commitid": "686143adc9a115459f463749f0b4be891836c8da",
+    "message": "ITERATION:1\n"
+  }
+}
