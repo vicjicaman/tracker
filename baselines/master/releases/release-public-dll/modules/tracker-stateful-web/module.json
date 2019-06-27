@@ -5,15 +5,430 @@
   "fullname": "@nebulario/tracker-stateful-web",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bc542c483195dcd32c9d4403e2def4f05ddfae0e",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "d092404761c9644346b0733c5d316e0a8e306697",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "99d25ab9360cc500dcbb1699b0677ac9caa77250",
+    "message": "RELEASE:release-public-dll:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Functionality to render the web app",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/tracker-stateful-web",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-link-state",
+      "fullname": "apollo-link-state",
+      "version": "^0.4.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-link-state"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.lodash",
+      "fullname": "lodash",
+      "version": "^4.17.11",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.lodash"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.recompose",
+      "fullname": "recompose",
+      "version": "^0.30.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.recompose"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.redux-actions",
+      "fullname": "redux-actions",
+      "version": "^2.6.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.redux-actions"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+      "fullname": "@nebulario/tracker-app-events",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-events"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.apollo-cache-inmemory",
+      "fullname": "apollo-cache-inmemory",
+      "version": "^1.1.12",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.apollo-cache-inmemory"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.apollo-client",
+      "fullname": "apollo-client",
+      "version": "^2.2.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.apollo-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.apollo-link",
+      "fullname": "apollo-link",
+      "version": "^1.2.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.apollo-link"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.apollo-link-http",
+      "fullname": "apollo-link-http",
+      "version": "^1.5.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.apollo-link-http"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-webpack",
+      "fullname": "babel-plugin-dynamic-import-webpack",
+      "version": "^1.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-syntax-dynamic-import",
+      "fullname": "babel-plugin-syntax-dynamic-import",
+      "version": "^6.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-syntax-dynamic-import"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-es2015",
+      "fullname": "babel-preset-es2015",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-es2015"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-react",
+      "fullname": "babel-preset-react",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.graphql",
+      "fullname": "graphql",
+      "version": "^0.13.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.history",
+      "fullname": "history",
+      "version": "^4.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.history"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.loadable-components",
+      "fullname": "loadable-components",
+      "version": "^1.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.loadable-components"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react",
+      "fullname": "react",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^2.1.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-redux",
+      "fullname": "react-redux",
+      "version": "^5.0.7",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-router-redux",
+      "fullname": "react-router-redux",
+      "version": "^5.0.0-alpha.9",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-router-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.redux",
+      "fullname": "redux",
+      "version": "^4.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.redux-saga",
+      "fullname": "redux-saga",
+      "version": "^0.16.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.redux-saga"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.apollo-cache-inmemory",
+      "fullname": "apollo-cache-inmemory",
+      "version": "^1.1.12",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.apollo-cache-inmemory"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.apollo-client",
+      "fullname": "apollo-client",
+      "version": "^2.2.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.apollo-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.apollo-link",
+      "fullname": "apollo-link",
+      "version": "^1.2.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.apollo-link"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.apollo-link-http",
+      "fullname": "apollo-link-http",
+      "version": "^1.5.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.apollo-link-http"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.graphql",
+      "fullname": "graphql",
+      "version": "^0.13.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.history",
+      "fullname": "history",
+      "version": "^4.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.history"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.loadable-components",
+      "fullname": "loadable-components",
+      "version": "^1.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.loadable-components"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react",
+      "fullname": "react",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^2.1.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-redux",
+      "fullname": "react-redux",
+      "version": "^5.0.7",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-router-redux",
+      "fullname": "react-router-redux",
+      "version": "^5.0.0-alpha.9",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-router-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.redux",
+      "fullname": "redux",
+      "version": "^4.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.redux-saga",
+      "fullname": "redux-saga",
+      "version": "^0.16.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.redux-saga"
+    }
+  ],
   "created": 1561643578,
   "updated": 1561643578,
   "status": "active"

@@ -2,6 +2,9 @@
   "moduleid": "tracker-app-form",
   "releases": [
     {
+      "releaseid": "release-public-dll"
+    },
+    {
       "releaseid": "common-ui-pkg"
     }
   ],
