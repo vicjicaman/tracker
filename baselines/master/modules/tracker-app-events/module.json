@@ -50,7 +50,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
           "fullname": "@nebulario/tracker-app-events",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-events"
