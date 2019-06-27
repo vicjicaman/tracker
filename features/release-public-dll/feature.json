@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-dll",
+  "baselineid": "master",
+  "description": "Release a public package for the common dlls",
+  "created": 1561640798,
+  "updated": 1561640798,
+  "status": "active"
+}
