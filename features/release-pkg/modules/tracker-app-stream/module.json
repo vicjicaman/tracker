@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-app-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-stream.git",
+  "fullname": "@nebulario/tracker-app-stream",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Stream component",
+  "created": 1561650407,
+  "updated": 1561650407,
+  "status": "active"
+}
