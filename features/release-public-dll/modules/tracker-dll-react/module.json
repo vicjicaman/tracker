@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-react.git",
+  "fullname": "@nebulario/tracker-dll-react",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common React related libraries",
+  "created": 1561640869,
+  "updated": 1561640869,
+  "status": "active",
+  "commit": {
+    "commitid": "2bbfad0b1ffab62bad71ca147129cfe970bdd9bd",
+    "message": "ITERATION:1\n"
+  }
+}

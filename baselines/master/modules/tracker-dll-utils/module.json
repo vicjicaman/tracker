@@ -2,6 +2,9 @@
   "moduleid": "tracker-dll-utils",
   "releases": [
     {
+      "releaseid": "release-public-dll"
+    },
+    {
       "releaseid": "initial-dll"
     }
   ],
