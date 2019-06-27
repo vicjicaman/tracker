@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-form.git",
   "fullname": "@nebulario/tracker-app-form",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Form component, action and reducers",
   "created": 1561670009,
   "updated": 1561670009,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "aecb2d43937023fd1ad14b67decf7ba9cd3d966d",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  }
 }

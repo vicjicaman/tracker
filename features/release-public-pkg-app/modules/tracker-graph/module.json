@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-graph.git",
   "fullname": "@nebulario/tracker-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "GraphQL API for the tracker",
   "created": 1561669979,
   "updated": 1561669979,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bd428d04015580ae83e5650626ca133936b2e48a",
+    "message": "Update dependencies to public release\n"
+  }
 }

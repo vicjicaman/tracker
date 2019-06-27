@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-modal.git",
   "fullname": "@nebulario/tracker-app-modal",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Modal component",
   "created": 1561669965,
   "updated": 1561669965,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bd4792d92f5f82363cb5c622f2340c328b3c087f",
+    "message": "RELEASE:release-pkg-app:1.70.1-master\n"
+  }
 }

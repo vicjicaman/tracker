@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-lang.git",
   "fullname": "@nebulario/tracker-lang",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Language HOC abstraction and configuration",
   "created": 1561669942,
   "updated": 1561669942,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d61fd49b9be85be7cbba6ae7e726589572eca6b1",
+    "message": "RELEASE:release-pkg-app:1.70.1-master\n"
+  }
 }

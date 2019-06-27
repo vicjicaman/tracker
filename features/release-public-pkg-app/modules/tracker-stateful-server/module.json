@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
   "fullname": "@nebulario/tracker-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Server side render configuration of cache and reducers",
   "created": 1561670088,
   "updated": 1561670088,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "cebdb65272ac588a5afc5d0fac205773361695dd",
+    "message": "RELEASE:release-public-dll:1.70.3-master\n"
+  }
 }
