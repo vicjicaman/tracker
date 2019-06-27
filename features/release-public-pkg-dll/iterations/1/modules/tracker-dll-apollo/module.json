@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-dll-apollo",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-dll-prod",
+  "fullname": "@nebulario/tracker-dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-apollo.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0193fab44e3f689e33c9030f9d45cb12242780a3",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561674093,
+  "updated": 1561674093,
+  "status": "active"
+}

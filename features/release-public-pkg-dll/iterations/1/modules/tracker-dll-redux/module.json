@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-dll-redux",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-dll-prod",
+  "fullname": "@nebulario/tracker-dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-redux.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c065fc2c641b0fc96314cbfd3dcb2825aae27cb0",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561674093,
+  "updated": 1561674093,
+  "status": "active"
+}
