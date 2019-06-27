@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-pkg",
+  "moduleid": "tracker-events",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/tracker-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "publish": null,
+  "released": {
+    "commitid": "bcbc57f07e1f5b064d01fe206eb6a67f85e5c668",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Events route and communication",
+  "dependencies": [],
+  "created": 1561668895,
+  "updated": 1561668895,
+  "status": "active"
+}

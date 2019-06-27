@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-pkg",
+  "moduleid": "tracker-stream",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stream.git",
+  "publish": null,
+  "released": {
+    "commitid": "75a4d282571186dad37804e6d72cb1037ce99d93",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Stream functionality, updates, state and control",
+  "dependencies": [],
+  "created": 1561668895,
+  "updated": 1561668895,
+  "status": "active"
+}
