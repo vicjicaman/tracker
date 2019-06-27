@@ -2,6 +2,9 @@
   "moduleid": "tracker-lang",
   "releases": [
     {
+      "releaseid": "release-public-pkg-app"
+    },
+    {
       "releaseid": "release-pkg-app"
     },
     {
