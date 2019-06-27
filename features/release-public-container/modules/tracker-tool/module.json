@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/tracker-tool.git",
+  "fullname": "@nebulario/tracker-tool",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Bundle script for the tracker ",
+  "created": 1561649226,
+  "updated": 1561649226,
+  "status": "active"
+}
