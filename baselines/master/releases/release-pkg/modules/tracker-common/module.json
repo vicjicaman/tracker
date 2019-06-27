@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-pkg",
+  "moduleid": "tracker-common",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "a029cbc124d941dcc02a6fadc2f0f47387c02056",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common code for the UI",
+  "dependencies": [],
+  "created": 1561653878,
+  "updated": 1561653878,
+  "status": "active"
+}
