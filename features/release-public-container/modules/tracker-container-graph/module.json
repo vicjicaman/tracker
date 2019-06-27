@@ -2,7 +2,7 @@
   "moduleid": "tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "fullname": "repoflow/tracker-container-server",
+  "fullname": "repoflow/tracker-container-graph",
   "iteration": {
     "mode": "dev"
   },
