@@ -1,0 +1,71 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-app-stream",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-stream",
+    "tracker-app-ui",
+    "tracker-events",
+    "tracker-node",
+    "tracker-app-events",
+    "tracker-process"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-app-stream",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-git",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-operation",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-ping",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-stream",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-app-ui",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-events",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-node",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-app-events",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-process",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-prod"
+    }
+  ],
+  "created": 1561667947,
+  "updated": 1561667947,
+  "status": "active"
+}

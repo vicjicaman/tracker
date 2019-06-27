@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-operation",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-operation.git",
+  "fullname": "@nebulario/tracker-operation",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Library for long running operation control",
+  "created": 1561667553,
+  "updated": 1561667553,
+  "status": "active",
+  "commit": {
+    "commitid": "6fa5c7957a3be7ada250b5dac39af3c0c4e08f14",
+    "message": "ITERATION:1\n"
+  }
+}

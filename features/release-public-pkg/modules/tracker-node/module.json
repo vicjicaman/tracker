@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-node.git",
+  "fullname": "@nebulario/tracker-node",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General config for a server node",
+  "created": 1561667494,
+  "updated": 1561667494,
+  "status": "active",
+  "commit": {
+    "commitid": "1f14690528e2aa7ecef80b0af219f5aedcb01154",
+    "message": "ITERATION:1\n"
+  }
+}

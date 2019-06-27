@@ -5,15 +5,166 @@
   "fullname": "@nebulario/tracker-process",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-process.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c4a30a8d1b77b4008e1fe4f3736935a79c0815b9",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "f4f473dc87d1b657103c39a0b87b63273599bb8c",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "00c89243e2b3848da40528f5ad26278db3255076",
+    "message": "RELEASE:release-public-pkg:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "Process and async utilities",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/tracker-process",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.bluebird",
+      "fullname": "bluebird",
+      "version": "^3.5.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.bluebird"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.child-process-promise",
+      "fullname": "child-process-promise",
+      "version": "^2.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.child-process-promise"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.lodash",
+      "fullname": "lodash",
+      "version": "^4.17.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.lodash"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1561668895,
   "updated": 1561668895,
   "status": "active"

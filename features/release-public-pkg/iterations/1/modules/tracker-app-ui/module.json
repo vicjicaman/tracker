@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-app-ui",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-prod",
+  "fullname": "@nebulario/tracker-app-ui",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-ui.git",
+  "publish": {
+    "commitid": "1624d119bdece66fcf3c9727b58d8b8bd9afeed7",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "debf33251309dd6ae48389dd40e1bd27ae82a0c4",
+    "message": "RELEASE:release-public-lib:1.70.1-master\n"
+  },
+  "mergeback": {
+    "commitid": "d8ffd5a5be910d24e82ae1f2d7c8aa035a07232c",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561667948,
+  "updated": 1561667948,
+  "status": "active"
+}

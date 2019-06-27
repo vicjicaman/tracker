@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-process",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-prod",
+  "fullname": "@nebulario/tracker-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-process.git",
+  "publish": {
+    "commitid": "3d0f6b89c425b57b204f5e54fbbce10943f01e76",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "a4f43aed0d872c910677cee4188911119891e4e6",
+    "message": "RELEASE:release-pkg-app:1.70.2-master\n"
+  },
+  "mergeback": {
+    "commitid": "f4f473dc87d1b657103c39a0b87b63273599bb8c",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561667948,
+  "updated": 1561667948,
+  "status": "active"
+}

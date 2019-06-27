@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-stream",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-stream.git",
+  "fullname": "@nebulario/tracker-app-stream",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Stream component",
+  "created": 1561667596,
+  "updated": 1561667596,
+  "status": "active",
+  "commit": {
+    "commitid": "8bd575e3881172bd70fa12cf502f8c5d486a8a49",
+    "message": "ITERATION:1\n"
+  }
+}
