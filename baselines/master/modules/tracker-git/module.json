@@ -2,6 +2,9 @@
   "moduleid": "tracker-git",
   "releases": [
     {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-lib"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-git",
           "fullname": "@nebulario/tracker-git",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-git"
@@ -33,7 +36,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
           "fullname": "@nebulario/tracker-process",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-process"

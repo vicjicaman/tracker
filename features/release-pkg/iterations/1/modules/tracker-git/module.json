@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-git",
+  "mode": "prod",
+  "version": "1.70.0-release-pkg-prod",
+  "fullname": "@nebulario/tracker-git",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-git.git",
+  "publish": {
+    "commitid": "91418c7936d9b7360a4a28e8641d04eeb0435647",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "6635e4d2d9c5bf5f2c3b30d6f1a8972ee5d55254",
+    "message": "Sync to public release\n"
+  },
+  "mergeback": {
+    "commitid": "eab49e67b0ae2155e6ba07224e0dac4d7e46653c",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561651589,
+  "updated": 1561651589,
+  "status": "active"
+}

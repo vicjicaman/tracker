@@ -2,6 +2,9 @@
   "moduleid": "tracker-app-stream",
   "releases": [
     {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-pkg-app"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-stream",
           "fullname": "@nebulario/tracker-app-stream",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-stream"
@@ -46,7 +49,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
           "fullname": "@nebulario/tracker-app-ui",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-ui"

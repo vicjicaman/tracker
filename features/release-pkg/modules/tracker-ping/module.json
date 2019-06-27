@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-ping",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-ping.git",
+  "fullname": "@nebulario/tracker-ping",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Ping functionality, update and state",
+  "created": 1561650384,
+  "updated": 1561650384,
+  "status": "active",
+  "commit": {
+    "commitid": "d0c40ec15cc5f6a726622daf08d2fcf1a99e6d9b",
+    "message": "ITERATION:1\n"
+  }
+}

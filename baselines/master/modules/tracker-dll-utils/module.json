@@ -18,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-utils",
           "fullname": "@nebulario/tracker-dll-utils",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-utils"
@@ -31,7 +31,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-utils",
           "fullname": "@nebulario/tracker-dll-utils",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-utils"
