@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stateful-server",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9f2b3fa621640c01cfb02a06a675dc87a316d5b8",
+    "message": "sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "6aed7ed136327cf89eae9a7e2b7036a7c46d9a76",
     "message": "RELEASE:common-ui-pkg:1.70.2-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6c3b1de967e926c0998b61a69e77899d17511d22",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561642058,
   "updated": 1561642058,
