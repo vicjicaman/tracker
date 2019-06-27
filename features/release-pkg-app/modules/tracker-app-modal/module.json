@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-modal",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-modal.git",
+  "fullname": "@nebulario/tracker-app-modal",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Modal component",
+  "created": 1561569705,
+  "updated": 1561569705,
+  "status": "active",
+  "commit": {
+    "commitid": "d5487a67d41a7758b31e39c20301f57757845435",
+    "message": "ITERATION:1\n"
+  }
+}

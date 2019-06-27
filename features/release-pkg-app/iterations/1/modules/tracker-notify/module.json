@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-notify",
+  "mode": "prod",
+  "version": "1.70.0-release-pkg-app-prod",
+  "fullname": "@nebulario/tracker-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-notify.git",
+  "publish": {
+    "commitid": "0687d3f0ebaf6bf3565ad3317742680b82bbabfe",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c2825641a3254f92d592b09a1b55fa1e5a27f388",
+    "message": "RELEASE:ui-libs:1.70.0-master\n"
+  },
+  "mergeback": {
+    "commitid": "13577dbc24ee8ad17c9d934c3f56c236d127ff12",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561570494,
+  "updated": 1561570494,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-lang.git",
+  "fullname": "@nebulario/tracker-lang",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Language HOC abstraction and configuration",
+  "created": 1561569746,
+  "updated": 1561569746,
+  "status": "active",
+  "commit": {
+    "commitid": "05eb18a40d7879fb23b5910999a58039cc05166f",
+    "message": "ITERATION:1\n"
+  }
+}

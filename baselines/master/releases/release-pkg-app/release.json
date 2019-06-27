@@ -1,6 +1,6 @@
 {
   "releaseid": "release-pkg-app",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-app-modal",
     "tracker-app-stream",

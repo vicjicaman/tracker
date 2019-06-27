@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-app-modal",
+  "mode": "prod",
+  "version": "1.70.0-release-pkg-app-prod",
+  "fullname": "@nebulario/tracker-app-modal",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-modal.git",
+  "publish": {
+    "commitid": "1787bbea103ffe25aa5933f31aff860b5f5a2707",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "7f48e4b572d6ad11527e7412e880a52d41be6996",
+    "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
+  },
+  "mergeback": {
+    "commitid": "d5487a67d41a7758b31e39c20301f57757845435",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561570494,
+  "updated": 1561570494,
+  "status": "active"
+}
