@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-pkg-app",
+  "moduleid": "tracker-stateful-web",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "1c534d38ffcdf05f40d5c6fdd7d3674a3ddcd1b2",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Functionality to render the web app",
+  "dependencies": [],
+  "created": 1561672150,
+  "updated": 1561672150,
+  "status": "active"
+}

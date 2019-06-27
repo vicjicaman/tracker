@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-pkg-app",
+  "moduleid": "tracker-layout",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-layout.git",
+  "publish": null,
+  "released": {
+    "commitid": "b7b90fd6ea3fa67df3ebc2b9d0474eca8bf0e838",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Layout componet",
+  "dependencies": [],
+  "created": 1561672150,
+  "updated": 1561672150,
+  "status": "active"
+}
