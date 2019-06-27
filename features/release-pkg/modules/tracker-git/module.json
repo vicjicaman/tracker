@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-git.git",
   "fullname": "@nebulario/tracker-git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Git API for common operations",
   "created": 1561650371,
   "updated": 1561650371,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6635e4d2d9c5bf5f2c3b30d6f1a8972ee5d55254",
+    "message": "Sync to public release\n"
+  }
 }

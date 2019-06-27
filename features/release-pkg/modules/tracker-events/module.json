@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-events.git",
   "fullname": "@nebulario/tracker-events",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Events route and communication",
   "created": 1561650360,
   "updated": 1561650360,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5b872df45f3b115046608a3bc159f64936733909",
+    "message": "Sync to public release\n"
+  }
 }

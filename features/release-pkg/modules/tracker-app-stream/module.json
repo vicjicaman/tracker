@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-stream.git",
   "fullname": "@nebulario/tracker-app-stream",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Stream component",
   "created": 1561650407,
   "updated": 1561650407,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c938143225607313f27e5522016b4d8558749bd4",
+    "message": "Sync to public release\n"
+  }
 }

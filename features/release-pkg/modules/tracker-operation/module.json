@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-operation.git",
   "fullname": "@nebulario/tracker-operation",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Library for long running operation control",
   "created": 1561650395,
   "updated": 1561650395,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ec5ccb306c45d49c6c7a85027276f5eecc37f17f",
+    "message": "Sync to public release\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-web.git",
   "fullname": "@nebulario/tracker-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web deliverable for the UI",
   "created": 1561650540,
   "updated": 1561650540,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f49c0b6c1660077ca4744e78773a009a030709a6",
+    "message": "Sync to public release\n"
+  }
 }
