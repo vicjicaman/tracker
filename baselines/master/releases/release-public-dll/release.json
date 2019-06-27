@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-dll",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-app-form",
     "tracker-stateful-server",

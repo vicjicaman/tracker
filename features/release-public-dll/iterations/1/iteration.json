@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "tracker-app-form",
+    "tracker-stateful-server",
+    "tracker-stateful-web",
+    "tracker-dll-apollo",
+    "tracker-dll-react",
+    "tracker-dll-redux",
+    "tracker-dll-utils",
+    "tracker-dll-vendor"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-app-form",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-dll-apollo",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-dll-react",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-dll-redux",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-dll-utils",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    },
+    {
+      "moduleid": "tracker-dll-vendor",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-dll-prod"
+    }
+  ],
+  "created": 1561642058,
+  "updated": 1561642058,
+  "status": "active"
+}

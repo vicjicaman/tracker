@@ -2,6 +2,9 @@
   "moduleid": "tracker-stateful-web",
   "releases": [
     {
+      "releaseid": "release-public-dll"
+    },
+    {
       "releaseid": "common-ui-pkg"
     },
     {
