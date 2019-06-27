@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-server.git",
   "fullname": "@nebulario/tracker-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Server for UI SSR",
   "created": 1561645865,
   "updated": 1561645865,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0c432615c7551147f1852559c7a707f0331cec7e",
+    "message": "RELEASE:common-ui-pkg:1.70.1-master\n"
+  }
 }
