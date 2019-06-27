@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stateful-server.git",
   "fullname": "@nebulario/tracker-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Server side render configuration of cache and reducers",
   "created": 1561641654,
   "updated": 1561641654,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6aed7ed136327cf89eae9a7e2b7036a7c46d9a76",
+    "message": "RELEASE:common-ui-pkg:1.70.2-master\n"
+  }
 }

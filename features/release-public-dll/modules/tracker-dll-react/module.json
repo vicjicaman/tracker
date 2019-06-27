@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-react.git",
   "fullname": "@nebulario/tracker-dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common React related libraries",
   "created": 1561640869,
   "updated": 1561640869,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e3fdc483ec142a90cc9b09be055fc81701a63b09",
+    "message": "RELEASE:initial-dll:1.70.0-master\n"
+  }
 }

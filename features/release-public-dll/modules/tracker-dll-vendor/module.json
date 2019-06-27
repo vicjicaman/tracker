@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-vendor.git",
   "fullname": "@nebulario/tracker-dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Vendor relarted packages",
   "created": 1561641598,
   "updated": 1561641598,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e942f275df6bd604507626c2997842cafb282ea1",
+    "message": "RELEASE:initial-dll:1.70.0-master\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-form.git",
   "fullname": "@nebulario/tracker-app-form",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Form component, action and reducers",
   "created": 1561641621,
   "updated": 1561641621,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b466ec33f3b2ca00684f6522562310b8e556ae86",
+    "message": "RELEASE:common-ui-pkg:1.70.0-master\n"
+  }
 }
