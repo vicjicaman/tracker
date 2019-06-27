@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-pkg-app",
+  "baselineid": "master",
+  "description": "Fix public access for dll and app packages",
+  "created": 1561669819,
+  "updated": 1561669819,
+  "status": "active"
+}
