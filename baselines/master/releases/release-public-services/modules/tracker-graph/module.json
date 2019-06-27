@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-services",
+  "moduleid": "tracker-graph",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "8f8145a3834e03e4347cb7230b19b3bd83dfb9f6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "GraphQL API for the tracker",
+  "dependencies": [],
+  "created": 1561647132,
+  "updated": 1561647132,
+  "status": "active"
+}
