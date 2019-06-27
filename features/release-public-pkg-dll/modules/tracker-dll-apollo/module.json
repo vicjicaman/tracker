@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-apollo.git",
   "fullname": "@nebulario/tracker-dll-apollo",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Apollo related packages",
   "created": 1561673766,
   "updated": 1561673766,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0193fab44e3f689e33c9030f9d45cb12242780a3",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  }
 }

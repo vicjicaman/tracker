@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-redux.git",
   "fullname": "@nebulario/tracker-dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Redux related packages",
   "created": 1561673634,
   "updated": 1561673634,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c065fc2c641b0fc96314cbfd3dcb2825aae27cb0",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-dll-react.git",
   "fullname": "@nebulario/tracker-dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common React related libraries",
   "created": 1561673648,
   "updated": 1561673648,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dacf2e2365dc833343c0e3a5fe4dd86e97682b90",
+    "message": "RELEASE:release-public-dll:1.70.1-master\n"
+  }
 }
