@@ -1,0 +1,17 @@
+{
+  "releaseid": "release-public-dll",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-app-form",
+    "tracker-stateful-server",
+    "tracker-stateful-web",
+    "tracker-dll-apollo",
+    "tracker-dll-react",
+    "tracker-dll-redux",
+    "tracker-dll-utils",
+    "tracker-dll-vendor"
+  ],
+  "created": 1561643578,
+  "updated": 1561643578,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-dll",
+  "moduleid": "tracker-dll-vendor",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/tracker-dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-vendor.git",
+  "publish": null,
+  "released": {
+    "commitid": "943f885e10918810b89326087e6c0185c29e3ea6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Vendor relarted packages",
+  "dependencies": [],
+  "created": 1561643578,
+  "updated": 1561643578,
+  "status": "active"
+}

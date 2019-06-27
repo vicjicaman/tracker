@@ -3,6 +3,9 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "release-public-dll"
+    },
+    {
       "releaseid": "release-pkg-app"
     },
     {
