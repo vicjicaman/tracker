@@ -1,0 +1,14 @@
+{
+  "releaseid": "release-public-pkg-dll",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-dll-apollo",
+    "tracker-dll-react",
+    "tracker-dll-redux",
+    "tracker-dll-utils",
+    "tracker-dll-vendor"
+  ],
+  "created": 1561674955,
+  "updated": 1561674955,
+  "status": "active"
+}
