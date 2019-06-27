@@ -1,0 +1,16 @@
+{
+  "moduleid": "tracker-dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-utils.git",
+  "fullname": "@nebulario/tracker-dll-utils",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Misc utilities packages",
+  "created": 1561640896,
+  "updated": 1561640896,
+  "status": "active"
+}
