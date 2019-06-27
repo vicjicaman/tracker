@@ -2,6 +2,9 @@
   "moduleid": "tracker-stream",
   "releases": [
     {
+      "releaseid": "release-public-pkg"
+    },
+    {
       "releaseid": "release-public-lib"
     },
     {

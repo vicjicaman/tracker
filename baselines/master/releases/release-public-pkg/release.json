@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-pkg",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-app-stream",
     "tracker-git",
