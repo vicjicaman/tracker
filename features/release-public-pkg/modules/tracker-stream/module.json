@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-stream.git",
   "fullname": "@nebulario/tracker-stream",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Stream functionality, updates, state and control",
   "created": 1561667522,
   "updated": 1561667522,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "22b7571528a488286872f70e6b97854c5f6e0b7b",
+    "message": "RELEASE:release-public-lib:1.70.1-master\n"
+  }
 }

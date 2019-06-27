@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-ping.git",
   "fullname": "@nebulario/tracker-ping",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Ping functionality, update and state",
   "created": 1561667539,
   "updated": 1561667539,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8e850f3e618fe059ed28d4e23bbc0c47df622a7c",
+    "message": "RELEASE:release-pkg:1.70.2-master\n"
+  }
 }

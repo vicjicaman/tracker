@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-app-ui.git",
   "fullname": "@nebulario/tracker-app-ui",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "UI common components",
   "created": 1561667505,
   "updated": 1561667505,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "debf33251309dd6ae48389dd40e1bd27ae82a0c4",
+    "message": "RELEASE:release-public-lib:1.70.1-master\n"
+  }
 }

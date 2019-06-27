@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-git.git",
   "fullname": "@nebulario/tracker-git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Git API for common operations",
   "created": 1561667485,
   "updated": 1561667485,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9ceebde84fd3487d35032213331122c42f88473c",
+    "message": "RELEASE:release-pkg:1.70.2-master\n"
+  }
 }
