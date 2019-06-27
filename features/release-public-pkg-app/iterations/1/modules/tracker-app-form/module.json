@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-form",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-form.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1e23ca87b6f6261bbffa80e78debbcd166e6ffa1",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "aecb2d43937023fd1ad14b67decf7ba9cd3d966d",
     "message": "RELEASE:release-public-dll:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9bdbc7238b7edec6aea71dd4a8f8fa54c0bd8baa",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561670538,
   "updated": 1561670538,
