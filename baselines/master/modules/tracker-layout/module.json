@@ -2,6 +2,9 @@
   "moduleid": "tracker-layout",
   "releases": [
     {
+      "releaseid": "release-pkg-app"
+    },
+    {
       "releaseid": "ui-libs"
     }
   ],

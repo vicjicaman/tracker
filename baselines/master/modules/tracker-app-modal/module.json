@@ -2,6 +2,9 @@
   "moduleid": "tracker-app-modal",
   "releases": [
     {
+      "releaseid": "release-pkg-app"
+    },
+    {
       "releaseid": "common-ui-pkg"
     }
   ],
