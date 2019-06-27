@@ -1,0 +1,71 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-stateful-web",
+    "tracker-app-stream",
+    "tracker-graph",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-events"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-common",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-app-stream",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-graph",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-git",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-operation",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-ping",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    },
+    {
+      "moduleid": "tracker-events",
+      "iterationid": 1,
+      "version": "1.70.0-release-pkg-prod"
+    }
+  ],
+  "created": 1561651588,
+  "updated": 1561651588,
+  "status": "active"
+}

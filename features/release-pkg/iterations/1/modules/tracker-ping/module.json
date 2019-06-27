@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-ping",
+  "mode": "prod",
+  "version": "1.70.0-release-pkg-prod",
+  "fullname": "@nebulario/tracker-ping",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-ping.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "dfec4266ccc473d702d02f01a247e7af065c6b49",
+    "message": "Sync to public release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561651589,
+  "updated": 1561651589,
+  "status": "active"
+}
