@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-app-stream",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-app-stream.git",
-  "publish": null,
+  "publish": {
+    "commitid": "44318ed2ca63dde54887d89425dbf4adc740426c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "cf0ff73cc11366c26643462a35467db0911c3272",
     "message": "RELEASE:release-pkg:1.70.2-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8bd575e3881172bd70fa12cf502f8c5d486a8a49",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561667947,
   "updated": 1561667947,
