@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-graph",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-app-prod",
+  "fullname": "@nebulario/tracker-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bd428d04015580ae83e5650626ca133936b2e48a",
+    "message": "Update dependencies to public release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561670539,
+  "updated": 1561670539,
+  "status": "active"
+}

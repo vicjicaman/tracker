@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-app-form",
+    "tracker-app-modal",
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify",
+    "tracker-stateful-server",
+    "tracker-stateful-web",
+    "tracker-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-app-form",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-app-modal",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-lang",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-layout",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-notify",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-stateful-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-stateful-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    },
+    {
+      "moduleid": "tracker-graph",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-app-prod"
+    }
+  ],
+  "created": 1561670538,
+  "updated": 1561670538,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-stateful-server",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-app-prod",
+  "fullname": "@nebulario/tracker-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "cebdb65272ac588a5afc5d0fac205773361695dd",
+    "message": "RELEASE:release-public-dll:1.70.3-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561670539,
+  "updated": 1561670539,
+  "status": "active"
+}

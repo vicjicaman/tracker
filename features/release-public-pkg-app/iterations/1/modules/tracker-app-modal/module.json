@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-app-modal",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-app-prod",
+  "fullname": "@nebulario/tracker-app-modal",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-modal.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bd4792d92f5f82363cb5c622f2340c328b3c087f",
+    "message": "RELEASE:release-pkg-app:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561670538,
+  "updated": 1561670538,
+  "status": "active"
+}

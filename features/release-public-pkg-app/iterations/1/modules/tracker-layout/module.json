@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-layout",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-app-prod",
+  "fullname": "@nebulario/tracker-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ad89c5abb464fb5ee89053fcebaae38ad7eefa21",
+    "message": "RELEASE:release-pkg-app:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561670538,
+  "updated": 1561670538,
+  "status": "active"
+}
