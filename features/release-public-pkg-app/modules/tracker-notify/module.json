@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-notify.git",
+  "fullname": "@nebulario/tracker-notify",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Notification package",
+  "created": 1561669956,
+  "updated": 1561669956,
+  "status": "active",
+  "commit": {
+    "commitid": "461cf8ea69d66424dee089f1ec758600fc5a0e89",
+    "message": "ITERATION:1\n"
+  }
+}

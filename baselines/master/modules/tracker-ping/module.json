@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-ping",
           "fullname": "@nebulario/tracker-ping",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-ping"

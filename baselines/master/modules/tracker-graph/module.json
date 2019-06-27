@@ -2,6 +2,9 @@
   "moduleid": "tracker-graph",
   "releases": [
     {
+      "releaseid": "release-public-pkg-app"
+    },
+    {
       "releaseid": "release-pkg"
     },
     {
@@ -65,7 +68,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-node",
           "fullname": "@nebulario/tracker-node",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-node"
@@ -78,7 +81,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
           "fullname": "@nebulario/tracker-process",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-process"
@@ -91,7 +94,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-git",
           "fullname": "@nebulario/tracker-git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-git"
@@ -104,7 +107,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-events",
           "fullname": "@nebulario/tracker-events",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-events"
@@ -117,7 +120,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stream",
           "fullname": "@nebulario/tracker-stream",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stream"
@@ -130,7 +133,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-operation",
           "fullname": "@nebulario/tracker-operation",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-operation"
@@ -143,7 +146,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-ping",
           "fullname": "@nebulario/tracker-ping",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-ping"

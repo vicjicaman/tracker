@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-pkg-app",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-app-form",
     "tracker-app-modal",
