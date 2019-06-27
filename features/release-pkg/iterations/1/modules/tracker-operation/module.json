@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-operation",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-operation.git",
-  "publish": null,
+  "publish": {
+    "commitid": "901ae8e15ef0f621e118bb3107c4cd5b4169ed40",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "ec5ccb306c45d49c6c7a85027276f5eecc37f17f",
     "message": "Sync to public release\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "770d7570d14f7997acb015a4df75d273eb0b4283",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561651589,
   "updated": 1561651589,

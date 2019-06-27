@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-ping",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-ping.git",
-  "publish": null,
+  "publish": {
+    "commitid": "aa593917c7d78e54e5b56e2e46a394137dabc9f3",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "dfec4266ccc473d702d02f01a247e7af065c6b49",
     "message": "Sync to public release\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d0c40ec15cc5f6a726622daf08d2fcf1a99e6d9b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561651589,
   "updated": 1561651589,

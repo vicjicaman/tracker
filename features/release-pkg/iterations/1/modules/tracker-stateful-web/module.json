@@ -5,12 +5,18 @@
   "fullname": "@nebulario/tracker-stateful-web",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-stateful-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0b63db2ec0790a3c2bcc98de9831cddb61268bd0",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "d093036cab1f7cb310168277ad167c3634665e05",
     "message": "Sync to public release\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "678953776e1bfd283113d3dc263ba30074434d96",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561651588,
   "updated": 1561651588,
