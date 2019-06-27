@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-node",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-prod",
+  "fullname": "@nebulario/tracker-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-node.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f09e9ee431fc91561ff686fd793b87a3fb4d3772",
+    "message": "RELEASE:release-public-lib:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561667948,
+  "updated": 1561667948,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-events",
+  "mode": "prod",
+  "version": "1.70.0-release-public-pkg-prod",
+  "fullname": "@nebulario/tracker-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-events.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "01b271c2a01b7e11e62c099ff61105ace792fbd3",
+    "message": "RELEASE:release-pkg:1.70.2-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561667948,
+  "updated": 1561667948,
+  "status": "active"
+}
