@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-pkg-app",
+  "moduleid": "tracker-process",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/tracker-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-process.git",
+  "publish": null,
+  "released": {
+    "commitid": "91756e422ab7dad0c25072be4738952e000f4415",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Process and async utilities",
+  "dependencies": [],
+  "created": 1561637564,
+  "updated": 1561637564,
+  "status": "active"
+}

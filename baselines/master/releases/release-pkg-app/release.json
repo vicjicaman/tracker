@@ -1,0 +1,17 @@
+{
+  "releaseid": "release-pkg-app",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-app-modal",
+    "tracker-app-stream",
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify",
+    "tracker-operation",
+    "tracker-app-events",
+    "tracker-process"
+  ],
+  "created": 1561637564,
+  "updated": 1561637564,
+  "status": "active"
+}
