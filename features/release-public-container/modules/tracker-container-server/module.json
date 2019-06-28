@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-container-server.git",
   "fullname": "repoflow/tracker-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for UI server",
   "created": 1561649244,
   "updated": 1561649244,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d1285109e47b0fa3313a07235a4296b3d1fbe3dd",
+    "message": "Update to latest baseline version\n"
+  }
 }

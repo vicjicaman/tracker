@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-container-graph.git",
   "fullname": "repoflow/tracker-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the tracker GraphQL service",
   "created": 1561649234,
   "updated": 1561649234,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0c5e49611a3fa2cabd45aa538fcb15074ccc2aa9",
+    "message": "Update to latest baseline version\n"
+  }
 }

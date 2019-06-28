@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-compose.git",
   "fullname": "tracker-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Compose script for the tracker",
   "created": 1561649219,
   "updated": 1561649219,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3acb15b65ee92c058aabe8994ab0167ea62c85b0",
+    "message": "Change the containers to public repositories\n"
+  }
 }

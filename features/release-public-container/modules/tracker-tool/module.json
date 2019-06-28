@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-tool.git",
   "fullname": "@nebulario/tracker-container-tool",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Bundle script for the tracker ",
   "created": 1561649226,
   "updated": 1561649226,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "76e419cdc263a1b3a53305820222f5128fcc6e52",
+    "message": "Update to latest baseline version\n"
+  }
 }
