@@ -2,7 +2,7 @@
   "moduleid": "tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "fullname": "repoflow/tracker-server",
+  "fullname": "repoflow/tracker-container-server",
   "iteration": {
     "mode": "prod"
   },
