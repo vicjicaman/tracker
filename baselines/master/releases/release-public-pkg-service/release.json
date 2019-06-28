@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-pkg-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-server",
     "tracker-web",

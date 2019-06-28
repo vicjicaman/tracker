@@ -5,15 +5,734 @@
   "fullname": "@nebulario/tracker-common",
   "type": "npm",
   "url": "github.com:vicjicaman/tracker-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6244c45792e0f6fa42bab1d8f131c9e4e54536dc",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "f9d928794be69a444c15a5b9ac9b0c7ede30f493",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ade938b4678a481057ccce5cab2a6c09b8d4de85",
+    "message": "RELEASE:release-public-pkg-service:1.70.4-master\n"
+  },
   "releaseType": "patch",
   "description": "Common code for the UI",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/tracker-common",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-lang",
+      "fullname": "@nebulario/tracker-lang",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-lang"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-layout",
+      "fullname": "@nebulario/tracker-layout",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-layout"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-notify",
+      "fullname": "@nebulario/tracker-notify",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-notify"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
+      "fullname": "@nebulario/tracker-app-events",
+      "version": "1.70.3-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-events"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
+      "fullname": "@nebulario/tracker-app-ui",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-ui"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-modal",
+      "fullname": "@nebulario/tracker-app-modal",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-modal"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-form",
+      "fullname": "@nebulario/tracker-app-form",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-form"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-stream",
+      "fullname": "@nebulario/tracker-app-stream",
+      "version": "1.70.3-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-app-stream"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.performance-now",
+      "fullname": "performance-now",
+      "version": "^2.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.performance-now"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-bootstrap-typeahead",
+      "fullname": "react-bootstrap-typeahead",
+      "version": "^3.1.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-bootstrap-typeahead"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.validator",
+      "fullname": "validator",
+      "version": "^10.7.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.validator"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.apollo-client",
+      "fullname": "apollo-client",
+      "version": "^2.3.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.apollo-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.autoprefixer",
+      "fullname": "autoprefixer",
+      "version": "^7.2.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.autoprefixer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-node",
+      "fullname": "babel-plugin-dynamic-import-node",
+      "version": "^1.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-node"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-webpack",
+      "fullname": "babel-plugin-dynamic-import-webpack",
+      "version": "^1.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-syntax-dynamic-import",
+      "fullname": "babel-plugin-syntax-dynamic-import",
+      "version": "^6.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-syntax-dynamic-import"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-es2015",
+      "fullname": "babel-preset-es2015",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-es2015"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-react",
+      "fullname": "babel-preset-react",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.bootstrap",
+      "fullname": "bootstrap",
+      "version": "4.1.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.bootstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.chunk-manifest-webpack-plugin",
+      "fullname": "chunk-manifest-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.chunk-manifest-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.css-loader",
+      "fullname": "css-loader",
+      "version": "^0.28.11",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.css-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.deepmerge",
+      "fullname": "deepmerge",
+      "version": "^2.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.deepmerge"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.extract-text-webpack-plugin",
+      "fullname": "extract-text-webpack-plugin",
+      "version": "^3.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.extract-text-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.file-loader",
+      "fullname": "file-loader",
+      "version": "^1.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.file-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.graphql",
+      "fullname": "graphql",
+      "version": "^0.13.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.graphql-tag",
+      "fullname": "graphql-tag",
+      "version": "^2.9.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.graphql-tag"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.ignore-loader",
+      "fullname": "ignore-loader",
+      "version": "^0.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.ignore-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.jquery",
+      "fullname": "jquery",
+      "version": "^3.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.jquery"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.loadable-components",
+      "fullname": "loadable-components",
+      "version": "^1.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.loadable-components"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.lodash",
+      "fullname": "lodash",
+      "version": "^4.17.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.lodash"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.moment",
+      "fullname": "moment",
+      "version": "^2.22.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.moment"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.node-sass",
+      "fullname": "node-sass",
+      "version": "^4.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.node-sass"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon-webpack-plugin",
+      "fullname": "nodemon-webpack-plugin",
+      "version": "^0.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.on-build-webpack",
+      "fullname": "on-build-webpack",
+      "version": "^0.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.on-build-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.popper.js",
+      "fullname": "popper.js",
+      "version": "^1.12.9",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.popper.js"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.postcss-flexbugs-fixes",
+      "fullname": "postcss-flexbugs-fixes",
+      "version": "^3.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.postcss-flexbugs-fixes"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.postcss-loader",
+      "fullname": "postcss-loader",
+      "version": "^2.0.9",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.postcss-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.prop-types",
+      "fullname": "prop-types",
+      "version": "^15.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.prop-types"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react",
+      "fullname": "react",
+      "version": "^16.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^2.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-intl",
+      "fullname": "react-intl",
+      "version": "^2.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-intl"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-redux",
+      "fullname": "react-redux",
+      "version": "^5.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-router-dom",
+      "fullname": "react-router-dom",
+      "version": "^4.2.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-router-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.reactstrap",
+      "fullname": "reactstrap",
+      "version": "^6.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.reactstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.recompose",
+      "fullname": "recompose",
+      "version": "^0.27.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.recompose"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.redux",
+      "fullname": "redux",
+      "version": "^4.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.redux-actions",
+      "fullname": "redux-actions",
+      "version": "^2.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.redux-actions"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.redux-saga",
+      "fullname": "redux-saga",
+      "version": "^0.16.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.redux-saga"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.sass-loader",
+      "fullname": "sass-loader",
+      "version": "^6.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.sass-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.shelljs",
+      "fullname": "shelljs",
+      "version": "^0.7.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.shelljs"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.style-loader",
+      "fullname": "style-loader",
+      "version": "^0.21.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.style-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-manifest-plugin",
+      "fullname": "webpack-manifest-plugin",
+      "version": "^2.0.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-manifest-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.apollo-client",
+      "fullname": "apollo-client",
+      "version": "^2.3.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.apollo-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.bootstrap",
+      "fullname": "bootstrap",
+      "version": "4.1.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.bootstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.deepmerge",
+      "fullname": "deepmerge",
+      "version": "^2.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.deepmerge"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.graphql",
+      "fullname": "graphql",
+      "version": "^0.13.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.graphql-tag",
+      "fullname": "graphql-tag",
+      "version": "^2.9.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.graphql-tag"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.jquery",
+      "fullname": "jquery",
+      "version": "^3.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.jquery"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.loadable-components",
+      "fullname": "loadable-components",
+      "version": "^1.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.loadable-components"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.moment",
+      "fullname": "moment",
+      "version": "^2.22.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.moment"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.popper.js",
+      "fullname": "popper.js",
+      "version": "^1.12.9",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.popper.js"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.prop-types",
+      "fullname": "prop-types",
+      "version": "^15.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.prop-types"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react",
+      "fullname": "react",
+      "version": "^16.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^2.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-intl",
+      "fullname": "react-intl",
+      "version": "^2.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-intl"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-redux",
+      "fullname": "react-redux",
+      "version": "^5.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-router-dom",
+      "fullname": "react-router-dom",
+      "version": "^4.2.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-router-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.reactstrap",
+      "fullname": "reactstrap",
+      "version": "^6.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.reactstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.recompose",
+      "fullname": "recompose",
+      "version": "^0.27.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.recompose"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.redux",
+      "fullname": "redux",
+      "version": "^4.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.redux-actions",
+      "fullname": "redux-actions",
+      "version": "^2.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.redux-actions"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.redux-saga",
+      "fullname": "redux-saga",
+      "version": "^0.16.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.redux-saga"
+    }
+  ],
   "created": 1561736777,
   "updated": 1561736777,
   "status": "active"

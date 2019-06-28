@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-stream",
           "fullname": "@nebulario/tracker-app-stream",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-stream"

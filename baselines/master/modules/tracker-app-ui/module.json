@@ -34,7 +34,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
           "fullname": "@nebulario/tracker-app-ui",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-ui"

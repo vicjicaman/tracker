@@ -21,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-apollo",
           "fullname": "@nebulario/tracker-dll-apollo",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-apollo"
@@ -34,7 +34,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-apollo",
           "fullname": "@nebulario/tracker-dll-apollo",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-apollo"

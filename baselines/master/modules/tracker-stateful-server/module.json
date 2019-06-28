@@ -27,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-server",
           "fullname": "@nebulario/tracker-stateful-server",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-server"
