@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-compose",
+  "mode": "prod",
+  "version": "1.70.0-release-public-container-prod",
+  "fullname": "tracker-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/tracker-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3acb15b65ee92c058aabe8994ab0167ea62c85b0",
+    "message": "Change the containers to public repositories\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561750955,
+  "updated": 1561750955,
+  "status": "active"
+}

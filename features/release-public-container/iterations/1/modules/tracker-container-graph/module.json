@@ -1,0 +1,18 @@
+{
+  "moduleid": "tracker-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-release-public-container-prod",
+  "fullname": "repoflow/tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "747a85a8f8c271ed48ed6b57b2ab389cad005088",
+    "message": "Update container fullname\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561750955,
+  "updated": 1561750955,
+  "status": "active"
+}

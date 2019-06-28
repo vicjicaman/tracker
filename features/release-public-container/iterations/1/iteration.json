@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-compose",
+    "tracker-tool",
+    "tracker-container-graph",
+    "tracker-container-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-compose",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-container-prod"
+    },
+    {
+      "moduleid": "tracker-tool",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-container-prod"
+    },
+    {
+      "moduleid": "tracker-container-graph",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-container-prod"
+    },
+    {
+      "moduleid": "tracker-container-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-container-prod"
+    }
+  ],
+  "created": 1561750955,
+  "updated": 1561750955,
+  "status": "active"
+}
