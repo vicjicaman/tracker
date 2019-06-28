@@ -1,6 +1,6 @@
 {
   "iterationid": 1,
-  "phase": "releasing",
+  "phase": "invalid",
   "hierarchy": [
     "tracker-server",
     "tracker-web",
