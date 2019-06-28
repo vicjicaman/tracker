@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-pkg-dll",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-dll-apollo",
     "tracker-dll-react",
