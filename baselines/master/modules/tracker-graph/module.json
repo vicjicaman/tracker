@@ -53,7 +53,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
           "fullname": "@nebulario/tracker-graph",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-graph"

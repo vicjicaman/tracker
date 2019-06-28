@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-web",
+    "tracker-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "tracker-server",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-service-prod"
+    },
+    {
+      "moduleid": "tracker-web",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-service-prod"
+    },
+    {
+      "moduleid": "tracker-common",
+      "iterationid": 1,
+      "version": "1.70.0-release-public-pkg-service-prod"
+    }
+  ],
+  "created": 1561729888,
+  "updated": 1561729888,
+  "status": "active"
+}
