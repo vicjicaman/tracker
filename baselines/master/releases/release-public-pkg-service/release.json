@@ -1,0 +1,12 @@
+{
+  "releaseid": "release-public-pkg-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-web",
+    "tracker-common"
+  ],
+  "created": 1561736777,
+  "updated": 1561736777,
+  "status": "active"
+}
