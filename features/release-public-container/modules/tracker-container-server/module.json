@@ -14,7 +14,7 @@
   "updated": 1561649244,
   "status": "active",
   "commit": {
-    "commitid": "d1285109e47b0fa3313a07235a4296b3d1fbe3dd",
-    "message": "Update to latest baseline version\n"
+    "commitid": "31a362a5786b1e3b98aed0716d2d67a9a7e15a9d",
+    "message": "Change fullname inner reference\n"
   }
 }
