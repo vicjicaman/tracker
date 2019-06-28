@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-server.git",
   "fullname": "@nebulario/tracker-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Server for UI SSR",
   "created": 1561728966,
   "updated": 1561728966,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "755c9476412b933cdc0f8179daf910c627ae238a",
+    "message": "Update dependencies to the latest baseline version\n"
+  }
 }

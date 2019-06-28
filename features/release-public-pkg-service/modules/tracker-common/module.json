@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-common.git",
   "fullname": "@nebulario/tracker-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code for the UI",
   "created": 1561728922,
   "updated": 1561728922,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "449c13fcaebe4d60b8dc3ca237aec9591a0d30aa",
+    "message": "Update dependencies to the latest baseline version\n"
+  }
 }

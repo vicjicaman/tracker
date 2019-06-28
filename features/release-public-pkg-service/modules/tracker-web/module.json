@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/tracker-web.git",
   "fullname": "@nebulario/tracker-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web deliverable for the UI",
   "created": 1561728957,
   "updated": 1561728957,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "95a36a3a6b5d59994a5f45fbf210f0d05065b9b8",
+    "message": "Update dependencies to the latest baseline version\n"
+  }
 }
