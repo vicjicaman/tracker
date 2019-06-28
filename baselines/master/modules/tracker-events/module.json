@@ -2,6 +2,12 @@
   "moduleid": "tracker-events",
   "releases": [
     {
+      "releaseid": "release-public-pkg"
+    },
+    {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-lib"
     },
     {
@@ -18,7 +24,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-events",
           "fullname": "@nebulario/tracker-events",
-          "version": "1.70.0-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-events"
@@ -31,7 +37,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-events",
           "fullname": "@nebulario/tracker-events",
-          "version": "1.70.0-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-events"
@@ -46,7 +52,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-process",
           "fullname": "@nebulario/tracker-process",
-          "version": "1.70.1-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-process"

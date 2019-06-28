@@ -2,6 +2,9 @@
   "moduleid": "tracker-lang",
   "releases": [
     {
+      "releaseid": "release-public-pkg-app"
+    },
+    {
       "releaseid": "release-pkg-app"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-lang",
           "fullname": "@nebulario/tracker-lang",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-lang"

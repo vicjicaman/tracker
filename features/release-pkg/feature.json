@@ -1,0 +1,8 @@
+{
+  "featureid": "release-pkg",
+  "baselineid": "master",
+  "description": "Public release of baseline",
+  "created": 1561650197,
+  "updated": 1561650197,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-stateful-web.git",
+  "fullname": "@nebulario/tracker-stateful-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Functionality to render the web app",
+  "created": 1561670049,
+  "updated": 1561670049,
+  "status": "active",
+  "commit": {
+    "commitid": "1c534d38ffcdf05f40d5c6fdd7d3674a3ddcd1b2",
+    "message": "ITERATION:1\n"
+  }
+}

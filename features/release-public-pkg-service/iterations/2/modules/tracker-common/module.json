@@ -1,0 +1,24 @@
+{
+  "moduleid": "tracker-common",
+  "mode": "prod",
+  "version": "1.70.1-release-public-pkg-service-prod",
+  "fullname": "@nebulario/tracker-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-common.git",
+  "publish": {
+    "commitid": "df76319332d46ca31f255f68135efa6145d2970c",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "449c13fcaebe4d60b8dc3ca237aec9591a0d30aa",
+    "message": "Update dependencies to the latest baseline version\n"
+  },
+  "mergeback": {
+    "commitid": "f9d928794be69a444c15a5b9ac9b0c7ede30f493",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1561731449,
+  "updated": 1561731449,
+  "status": "active"
+}

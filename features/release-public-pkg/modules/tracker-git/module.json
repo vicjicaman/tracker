@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-git",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-git.git",
+  "fullname": "@nebulario/tracker-git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Git API for common operations",
+  "created": 1561667485,
+  "updated": 1561667485,
+  "status": "active",
+  "commit": {
+    "commitid": "51e2b022d76dd6142375259699c80b682b22666c",
+    "message": "ITERATION:1\n"
+  }
+}

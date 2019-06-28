@@ -1,0 +1,19 @@
+{
+  "releaseid": "release-pkg",
+  "phase": "released",
+  "hierarchy": [
+    "tracker-server",
+    "tracker-web",
+    "tracker-common",
+    "tracker-stateful-web",
+    "tracker-app-stream",
+    "tracker-graph",
+    "tracker-git",
+    "tracker-operation",
+    "tracker-ping",
+    "tracker-events"
+  ],
+  "created": 1561653878,
+  "updated": 1561653878,
+  "status": "active"
+}

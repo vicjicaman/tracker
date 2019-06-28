@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-app-events",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-app-events.git",
+  "fullname": "@nebulario/tracker-app-events",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Events provider, state, reducers and handler",
+  "created": 1561667470,
+  "updated": 1561667470,
+  "status": "active",
+  "commit": {
+    "commitid": "26b8d4d98f72cbb093183c8a17000d68ecece8ea",
+    "message": "ITERATION:1\n"
+  }
+}

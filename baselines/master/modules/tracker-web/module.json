@@ -2,6 +2,12 @@
   "moduleid": "tracker-web",
   "releases": [
     {
+      "releaseid": "release-public-pkg-service"
+    },
+    {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-services"
     },
     {
@@ -21,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-web",
           "fullname": "@nebulario/tracker-web",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-web"
@@ -36,7 +42,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-stateful-web",
           "fullname": "@nebulario/tracker-stateful-web",
-          "version": "1.70.1-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-stateful-web"
@@ -49,7 +55,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-apollo",
           "fullname": "@nebulario/tracker-dll-apollo",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-apollo"
@@ -62,7 +68,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-react",
           "fullname": "@nebulario/tracker-dll-react",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-react"
@@ -75,7 +81,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-redux",
           "fullname": "@nebulario/tracker-dll-redux",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-redux"
@@ -88,7 +94,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-utils",
           "fullname": "@nebulario/tracker-dll-utils",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-utils"
@@ -101,7 +107,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-dll-vendor",
           "fullname": "@nebulario/tracker-dll-vendor",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-dll-vendor"
@@ -114,7 +120,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -127,7 +133,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
           "fullname": "@nebulario/tracker-graph",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-graph"

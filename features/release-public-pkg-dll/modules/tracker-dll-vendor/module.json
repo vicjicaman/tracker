@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/tracker-dll-vendor.git",
+  "fullname": "@nebulario/tracker-dll-vendor",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Vendor relarted packages",
+  "created": 1561673668,
+  "updated": 1561673668,
+  "status": "active",
+  "commit": {
+    "commitid": "a98b0cc7f0bc74ed26d6f9df5edcfce5d985e4a6",
+    "message": "ITERATION:1\n"
+  }
+}

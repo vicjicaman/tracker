@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-pkg-dll",
+  "baselineid": "master",
+  "description": "Release public access for dlls",
+  "created": 1561673215,
+  "updated": 1561673215,
+  "status": "active"
+}

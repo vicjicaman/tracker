@@ -2,6 +2,12 @@
   "moduleid": "tracker-common",
   "releases": [
     {
+      "releaseid": "release-public-pkg-service"
+    },
+    {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-services"
     },
     {
@@ -21,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -34,7 +40,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-common",
           "fullname": "@nebulario/tracker-common",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-common"
@@ -49,7 +55,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-lang",
           "fullname": "@nebulario/tracker-lang",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-lang"
@@ -62,7 +68,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-layout",
           "fullname": "@nebulario/tracker-layout",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-layout"
@@ -75,7 +81,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-notify",
           "fullname": "@nebulario/tracker-notify",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-notify"
@@ -88,7 +94,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-events",
           "fullname": "@nebulario/tracker-app-events",
-          "version": "1.70.0-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-events"
@@ -101,7 +107,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-ui",
           "fullname": "@nebulario/tracker-app-ui",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-ui"
@@ -114,7 +120,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-modal",
           "fullname": "@nebulario/tracker-app-modal",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-modal"
@@ -127,7 +133,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-form",
           "fullname": "@nebulario/tracker-app-form",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-form"
@@ -140,7 +146,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-app-stream",
           "fullname": "@nebulario/tracker-app-stream",
-          "version": "1.70.0-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-app-stream"

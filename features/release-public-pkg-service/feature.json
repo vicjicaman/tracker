@@ -1,0 +1,8 @@
+{
+  "featureid": "release-public-pkg-service",
+  "baselineid": "master",
+  "description": "Release public service packages",
+  "created": 1561728750,
+  "updated": 1561728750,
+  "status": "active"
+}

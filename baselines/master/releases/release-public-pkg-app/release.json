@@ -1,0 +1,17 @@
+{
+  "releaseid": "release-public-pkg-app",
+  "phase": "released",
+  "hierarchy": [
+    "tracker-app-form",
+    "tracker-app-modal",
+    "tracker-lang",
+    "tracker-layout",
+    "tracker-notify",
+    "tracker-stateful-server",
+    "tracker-stateful-web",
+    "tracker-graph"
+  ],
+  "created": 1561672150,
+  "updated": 1561672150,
+  "status": "active"
+}

@@ -3,6 +3,21 @@
   "description": "Production repositories baseline branch",
   "releases": [
     {
+      "releaseid": "release-public-pkg-service"
+    },
+    {
+      "releaseid": "release-public-pkg-dll"
+    },
+    {
+      "releaseid": "release-public-pkg-app"
+    },
+    {
+      "releaseid": "release-public-pkg"
+    },
+    {
+      "releaseid": "release-pkg"
+    },
+    {
       "releaseid": "release-public-services"
     },
     {
