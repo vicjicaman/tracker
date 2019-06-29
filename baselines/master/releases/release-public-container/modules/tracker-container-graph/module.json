@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-container",
+  "moduleid": "tracker-container-graph",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "5e4c98c1cf719f14067c45b20ff669571def391e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the tracker GraphQL service",
+  "dependencies": [],
+  "created": 1561822322,
+  "updated": 1561822322,
+  "status": "active"
+}
