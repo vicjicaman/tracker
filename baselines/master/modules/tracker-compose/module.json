@@ -2,6 +2,9 @@
   "moduleid": "tracker-compose",
   "releases": [
     {
+      "releaseid": "release-public-container"
+    },
+    {
       "releaseid": "tool-operation-pkg"
     },
     {
@@ -18,8 +21,8 @@
       "references": [
         {
           "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
-          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-server",
-          "version": "1.70.1-master",
+          "fullname": "repoflow/tracker-container-server",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -31,8 +34,8 @@
       "references": [
         {
           "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
-          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/tracker-container-graph",
-          "version": "1.70.1-master",
+          "fullname": "repoflow/tracker-container-graph",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"

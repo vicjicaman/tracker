@@ -5,15 +5,38 @@
   "fullname": "repoflow/tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "cabb28819466cc51b782ff2b5dc0794d672b6e9e",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "5e4c98c1cf719f14067c45b20ff669571def391e",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "dbda0c3b82e1d1b6bb577b9af69a2b1a00a2c1a8",
+    "message": "RELEASE:release-public-container:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the tracker GraphQL service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/tracker-container-graph",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-graph",
+      "fullname": "@nebulario/tracker-graph",
+      "version": "1.70.4-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-graph"
+    }
+  ],
   "created": 1561822322,
   "updated": 1561822322,
   "status": "active"

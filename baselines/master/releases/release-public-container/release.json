@@ -1,6 +1,6 @@
 {
   "releaseid": "release-public-container",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "tracker-compose",
     "tracker-tool",
