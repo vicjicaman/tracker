@@ -5,15 +5,38 @@
   "fullname": "repoflow/tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b5676787774f62589cc119d65e79a73df37ab37c",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "a405cd9642eb789df8d2c3469257dc822282d46f",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5cca31231275a2041586db94aec9658f549c5dd4",
+    "message": "RELEASE:release-public-container:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for UI server",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/tracker-container-server",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
+      "fullname": "@nebulario/tracker-server",
+      "version": "1.70.4-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/tracker-server"
+    }
+  ],
   "created": 1561822322,
   "updated": 1561822322,
   "status": "active"

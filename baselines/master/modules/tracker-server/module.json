@@ -27,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
           "fullname": "@nebulario/tracker-server",
-          "version": "1.70.0-master",
+          "version": "1.70.4-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-server"
@@ -40,7 +40,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/tracker-server",
           "fullname": "@nebulario/tracker-server",
-          "version": "1.70.0-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/tracker-server"

@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-graph.git",
+  "fullname": "repoflow/tracker-container-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the tracker GraphQL service",
+  "created": 1561649234,
+  "updated": 1561649234,
+  "status": "active",
+  "commit": {
+    "commitid": "5e4c98c1cf719f14067c45b20ff669571def391e",
+    "message": "ITERATION:1\n"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "tracker-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/tracker-tool.git",
+  "fullname": "@nebulario/tracker-container-tool",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Bundle script for the tracker ",
+  "created": 1561649226,
+  "updated": 1561649226,
+  "status": "active",
+  "commit": {
+    "commitid": "2805be307d3d07b648c5d4389fbd27fd9e2a57ef",
+    "message": "ITERATION:1\n"
+  }
+}

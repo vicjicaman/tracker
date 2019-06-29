@@ -5,15 +5,38 @@
   "fullname": "tracker-compose",
   "type": "compose",
   "url": "github.com:vicjicaman/tracker-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "532b60729734c92a23d1e32da76893d5432f4d11",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "1b69d4248be1dea86ead604ea6d34d24193f6bd9",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e5946dfb831891b341df82f9db2e128a693d9ce5",
+    "message": "RELEASE:release-public-container:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Compose script for the tracker",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "repoflow/tracker-container-server",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "repoflow/tracker-container-graph",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    }
+  ],
   "created": 1561822322,
   "updated": 1561822322,
   "status": "active"
