@@ -5,12 +5,18 @@
   "fullname": "repoflow/tracker-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "735acb1f3f22c5b274ddae6b241045a07ca9d826",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "31a362a5786b1e3b98aed0716d2d67a9a7e15a9d",
     "message": "Change fullname inner reference\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a405cd9642eb789df8d2c3469257dc822282d46f",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561750955,
   "updated": 1561750955,

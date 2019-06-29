@@ -5,12 +5,18 @@
   "fullname": "tracker-compose",
   "type": "compose",
   "url": "github.com:vicjicaman/tracker-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ff3af3a96976716ab189b7c8b3ef1453bea4a5c9",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "3acb15b65ee92c058aabe8994ab0167ea62c85b0",
     "message": "Change the containers to public repositories\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1b69d4248be1dea86ead604ea6d34d24193f6bd9",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561750955,
   "updated": 1561750955,

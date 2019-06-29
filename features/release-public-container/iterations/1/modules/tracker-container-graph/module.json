@@ -5,12 +5,18 @@
   "fullname": "repoflow/tracker-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/tracker-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3908da25d0791033743a09f43a2bfc9898c359fe",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "747a85a8f8c271ed48ed6b57b2ab389cad005088",
     "message": "Update container fullname\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5e4c98c1cf719f14067c45b20ff669571def391e",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561750955,
   "updated": 1561750955,
