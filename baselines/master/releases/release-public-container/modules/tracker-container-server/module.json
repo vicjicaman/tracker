@@ -1,0 +1,20 @@
+{
+  "releaseid": "release-public-container",
+  "moduleid": "tracker-container-server",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/tracker-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/tracker-container-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "a405cd9642eb789df8d2c3469257dc822282d46f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for UI server",
+  "dependencies": [],
+  "created": 1561822322,
+  "updated": 1561822322,
+  "status": "active"
+}
